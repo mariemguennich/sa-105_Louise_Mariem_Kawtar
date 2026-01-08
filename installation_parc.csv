@@ -1,0 +1,2809 @@
+﻿Date,Pays,Filière,Valeur (GW),
+2016,"Autriche","Autres",0,56199999213219
+2017,"Autriche","Autres",0,65999998450279
+2018,"Autriche","Autres",0,65999998450279
+2019,"Autriche","Autres",0,12279999923706
+2020,"Autriche","Autres",0,958
+2021,"Autriche","Autres",0,954
+2022,"Autriche","Autres",0,84523999023438
+2023,"Autriche","Autres",0,87925
+2024,"Autriche","Autres",0,855
+2016,"Autriche","Dechets",0,14410000610352
+2017,"Autriche","Dechets",0,14980000305176
+2018,"Autriche","Dechets",0,15
+2019,"Autriche","Dechets",0,15
+2020,"Autriche","Dechets",0,103
+2021,"Autriche","Dechets",0,103
+2022,"Autriche","Dechets",0,103
+2023,"Autriche","Dechets",0,8
+2024,"Autriche","Dechets",0,128
+2016,"Autriche","Biogaz",,
+2017,"Autriche","Biogaz",,
+2018,"Autriche","Biogaz",,
+2019,"Autriche","Biogaz",,
+2020,"Autriche","Biogaz",,
+2021,"Autriche","Biogaz",,
+2022,"Autriche","Biogaz",,
+2023,"Autriche","Biogaz",,
+2024,"Autriche","Biogaz",,
+2016,"Autriche","Biomasse",0,47379998779297
+2017,"Autriche","Biomasse",0,491
+2018,"Autriche","Biomasse",0,49979998779297
+2019,"Autriche","Biomasse",0,497
+2020,"Autriche","Biomasse",0,497
+2021,"Autriche","Biomasse",0,482
+2022,"Autriche","Biomasse",0,482
+2023,"Autriche","Biomasse",0,549
+2024,"Autriche","Biomasse",0,549
+2016,"Autriche","Eolien en mer",,
+2017,"Autriche","Eolien en mer",,
+2018,"Autriche","Eolien en mer",,
+2019,"Autriche","Eolien en mer",,
+2020,"Autriche","Eolien en mer",,
+2021,"Autriche","Eolien en mer",,
+2022,"Autriche","Eolien en mer",,
+2023,"Autriche","Eolien en mer",,
+2024,"Autriche","Eolien en mer",,
+2016,"Autriche","Eolien terrestre",2,696
+2017,"Autriche","Eolien terrestre",2,887
+2018,"Autriche","Eolien terrestre",3,346000976562
+2019,"Autriche","Eolien terrestre",3,133
+2020,"Autriche","Eolien terrestre",3,198
+2021,"Autriche","Eolien terrestre",3,5
+2022,"Autriche","Eolien terrestre",3,5688200683594
+2023,"Autriche","Eolien terrestre",4,21
+2024,"Autriche","Eolien terrestre",4,35
+2016,"Autriche","Solaire",1,31
+2017,"Autriche","Solaire",1,193
+2018,"Autriche","Solaire",1,1926999511719
+2019,"Autriche","Solaire",1,333
+2020,"Autriche","Solaire",1,851
+2021,"Autriche","Solaire",2,5
+2022,"Autriche","Solaire",3,2653000488281
+2023,"Autriche","Solaire",7,294
+2024,"Autriche","Solaire",8,254
+2016,"Autriche","Hydraulique",11,946799804688
+2017,"Autriche","Hydraulique",11,990400390625
+2018,"Autriche","Hydraulique",11,1175
+2019,"Autriche","Hydraulique",11,279800048828
+2020,"Autriche","Hydraulique",11,83
+2021,"Autriche","Hydraulique",11,815100097656
+2022,"Autriche","Hydraulique",12,35059814453
+2023,"Autriche","Hydraulique",11,821
+2024,"Autriche","Hydraulique",11,939
+2016,"Autriche","Fioul",0,17789999389648
+2017,"Autriche","Fioul",0,17789999389648
+2018,"Autriche","Fioul",0,17789999389648
+2019,"Autriche","Fioul",0,17789999389648
+2020,"Autriche","Fioul",0,164
+2021,"Autriche","Fioul",0,16361000061035
+2022,"Autriche","Fioul",0,12
+2023,"Autriche","Fioul",0,125
+2024,"Autriche","Fioul",0,125
+2016,"Autriche","Gaz",4,4657998046875
+2017,"Autriche","Gaz",4,4677001953125
+2018,"Autriche","Gaz",4,4632001953125
+2019,"Autriche","Gaz",4,153000488281
+2020,"Autriche","Gaz",4,449
+2021,"Autriche","Gaz",4,3495
+2022,"Autriche","Gaz",4,2061201171875
+2023,"Autriche","Gaz",4,225
+2024,"Autriche","Gaz",4,225
+2016,"Autriche","Charbon",0,598
+2017,"Autriche","Charbon",0,598
+2018,"Autriche","Charbon",0,598
+2019,"Autriche","Charbon",0,246
+2020,"Autriche","Charbon",,
+2021,"Autriche","Charbon",,
+2022,"Autriche","Charbon",,
+2023,"Autriche","Charbon",,
+2024,"Autriche","Charbon",,
+2016,"Autriche","Nucléaire",,
+2017,"Autriche","Nucléaire",,
+2018,"Autriche","Nucléaire",,
+2019,"Autriche","Nucléaire",,
+2020,"Autriche","Nucléaire",,
+2021,"Autriche","Nucléaire",,
+2022,"Autriche","Nucléaire",,
+2023,"Autriche","Nucléaire",,
+2024,"Autriche","Nucléaire",,
+2016,"Autriche","Toutes les filières",21,589599596381
+2017,"Autriche","Toutes les filières",22,20800581336
+2018,"Autriche","Toutes les filières",21,29970022428
+2019,"Autriche","Toutes les filières",20,95480009079
+2020,"Autriche","Toutes les filières",23,5
+2021,"Autriche","Toutes les filières",23,867210098267
+2022,"Autriche","Toutes les filières",24,625540039062
+2023,"Autriche","Toutes les filières",28,99425
+2024,"Autriche","Toutes les filières",30,11
+2016,"Belgique","Autres",,
+2017,"Belgique","Autres",,
+2018,"Belgique","Autres",0,185
+2019,"Belgique","Autres",0,185
+2020,"Belgique","Autres",0,185
+2021,"Belgique","Autres",0,185
+2022,"Belgique","Autres",0,27049999237061
+2023,"Belgique","Autres",0,27079999923706
+2024,"Belgique","Autres",0,13670000076294
+2016,"Belgique","Dechets",0,36154000854492
+2017,"Belgique","Dechets",0,36214001464844
+2018,"Belgique","Dechets",0,36214001464844
+2019,"Belgique","Dechets",0,36214001464844
+2020,"Belgique","Dechets",0,36214001464844
+2021,"Belgique","Dechets",0,38364001464844
+2022,"Belgique","Dechets",0,38364001464844
+2023,"Belgique","Dechets",0,38364001464844
+2024,"Belgique","Dechets",0,32860000610352
+2016,"Belgique","Biogaz",,
+2017,"Belgique","Biogaz",,
+2018,"Belgique","Biogaz",,
+2019,"Belgique","Biogaz",,
+2020,"Belgique","Biogaz",,
+2021,"Belgique","Biogaz",,
+2022,"Belgique","Biogaz",,
+2023,"Belgique","Biogaz",,
+2024,"Belgique","Biogaz",,
+2016,"Belgique","Biomasse",0,59810998535156
+2017,"Belgique","Biomasse",0,59814001464844
+2018,"Belgique","Biomasse",0,61925
+2019,"Belgique","Biomasse",0,64739001464844
+2020,"Belgique","Biomasse",0,67209002685547
+2021,"Belgique","Biomasse",0,70046997070312
+2022,"Belgique","Biomasse",0,73034002685547
+2023,"Belgique","Biomasse",0,73082000732422
+2024,"Belgique","Biomasse",0,73101000976563
+2016,"Belgique","Eolien en mer",0,87720001220703
+2017,"Belgique","Eolien en mer",1,1781999511719
+2018,"Belgique","Eolien en mer",1,5481999511719
+2019,"Belgique","Eolien en mer",2,2543999023438
+2020,"Belgique","Eolien en mer",2,2543999023438
+2021,"Belgique","Eolien en mer",2,2543999023438
+2022,"Belgique","Eolien en mer",2,2621000976562
+2023,"Belgique","Eolien en mer",2,2621000976562
+2024,"Belgique","Eolien en mer",2,2621000976562
+2016,"Belgique","Eolien terrestre",1,7447199707031
+2017,"Belgique","Eolien terrestre",1,9789899902344
+2018,"Belgique","Eolien terrestre",2,248080078125
+2019,"Belgique","Eolien terrestre",2,4164299316406
+2020,"Belgique","Eolien terrestre",2,629
+2021,"Belgique","Eolien terrestre",2,7866499023438
+2022,"Belgique","Eolien terrestre",3,531799316406
+2023,"Belgique","Eolien terrestre",3,531799316406
+2024,"Belgique","Eolien terrestre",3,177080078125
+2016,"Belgique","Solaire",2,9527800292969
+2017,"Belgique","Solaire",2,9527800292969
+2018,"Belgique","Solaire",3,3690500488281
+2019,"Belgique","Solaire",3,8866000976563
+2020,"Belgique","Solaire",4,7875600585938
+2021,"Belgique","Solaire",4,7875600585938
+2022,"Belgique","Solaire",6,4749599609375
+2023,"Belgique","Solaire",8,7887900390625
+2024,"Belgique","Solaire",10,696209960937
+2016,"Belgique","Hydraulique",1,4775700073242
+2017,"Belgique","Hydraulique",1,4788500061035
+2018,"Belgique","Hydraulique",1,4804900054932
+2019,"Belgique","Hydraulique",1,4833399963379
+2020,"Belgique","Hydraulique",1,4836999969482
+2021,"Belgique","Hydraulique",1,4926999969482
+2022,"Belgique","Hydraulique",1,4935099945068
+2023,"Belgique","Hydraulique",1,4935099945068
+2024,"Belgique","Hydraulique",1,4523300018311
+2016,"Belgique","Fioul",0,22419999694824
+2017,"Belgique","Fioul",0,23913000488281
+2018,"Belgique","Fioul",0,24213000488281
+2019,"Belgique","Fioul",0,2462799987793
+2020,"Belgique","Fioul",0,27532000732422
+2021,"Belgique","Fioul",0,3984700012207
+2022,"Belgique","Fioul",0,44986999511719
+2023,"Belgique","Fioul",0,45151000976562
+2024,"Belgique","Fioul",0,58952001953125
+2016,"Belgique","Gaz",6,4635297851563
+2017,"Belgique","Gaz",6,5336298828125
+2018,"Belgique","Gaz",6,6419702148438
+2019,"Belgique","Gaz",6,7988500976563
+2020,"Belgique","Gaz",7,2815698242188
+2021,"Belgique","Gaz",6,8187700195313
+2022,"Belgique","Gaz",6,9876201171875
+2023,"Belgique","Gaz",6,99491015625
+2024,"Belgique","Gaz",8,3482998046875
+2016,"Belgique","Charbon",,
+2017,"Belgique","Charbon",,
+2018,"Belgique","Charbon",,
+2019,"Belgique","Charbon",,
+2020,"Belgique","Charbon",,
+2021,"Belgique","Charbon",,
+2022,"Belgique","Charbon",,
+2023,"Belgique","Charbon",,
+2024,"Belgique","Charbon",,
+2016,"Belgique","Nucléaire",5,943
+2017,"Belgique","Nucléaire",5,943
+2018,"Belgique","Nucléaire",5,943
+2019,"Belgique","Nucléaire",5,943
+2020,"Belgique","Nucléaire",5,943
+2021,"Belgique","Nucléaire",5,943
+2022,"Belgique","Nucléaire",4,937
+2023,"Belgique","Nucléaire",3,929
+2024,"Belgique","Nucléaire",3,929
+2016,"Belgique","Toutes les filières",20,642649795532
+2017,"Belgique","Toutes les filières",21,264859893799
+2018,"Belgique","Toutes les filières",22,472810317993
+2019,"Belgique","Toutes les filières",24,56930053711
+2020,"Belgique","Toutes les filières",25,707279830933
+2021,"Belgique","Toutes les filières",25,584159866333
+2022,"Belgique","Toutes les filières",26,799270137787
+2023,"Belgique","Toutes les filières",28,114540250778
+2024,"Belgique","Toutes les filières",31,527819978714
+2016,"Bulgarie","Autres",,
+2017,"Bulgarie","Autres",,
+2018,"Bulgarie","Autres",,
+2019,"Bulgarie","Autres",,
+2020,"Bulgarie","Autres",,
+2021,"Bulgarie","Autres",,
+2022,"Bulgarie","Autres",,
+2023,"Bulgarie","Autres",,
+2024,"Bulgarie","Autres",,
+2016,"Bulgarie","Dechets",0,6
+2017,"Bulgarie","Dechets",0,6
+2018,"Bulgarie","Dechets",0,6
+2019,"Bulgarie","Dechets",0,6
+2020,"Bulgarie","Dechets",0,6
+2021,"Bulgarie","Dechets",0,6
+2022,"Bulgarie","Dechets",0,6
+2023,"Bulgarie","Dechets",0,6
+2024,"Bulgarie","Dechets",0,6
+2016,"Bulgarie","Biogaz",,
+2017,"Bulgarie","Biogaz",,
+2018,"Bulgarie","Biogaz",,
+2019,"Bulgarie","Biogaz",,
+2020,"Bulgarie","Biogaz",,
+2021,"Bulgarie","Biogaz",,
+2022,"Bulgarie","Biogaz",,
+2023,"Bulgarie","Biogaz",,
+2024,"Bulgarie","Biogaz",,
+2016,"Bulgarie","Biomasse",0,74
+2017,"Bulgarie","Biomasse",0,74
+2018,"Bulgarie","Biomasse",0,74
+2019,"Bulgarie","Biomasse",0,74
+2020,"Bulgarie","Biomasse",0,75
+2021,"Bulgarie","Biomasse",0,74
+2022,"Bulgarie","Biomasse",0,74
+2023,"Bulgarie","Biomasse",0,74
+2024,"Bulgarie","Biomasse",0,57
+2016,"Bulgarie","Eolien en mer",,
+2017,"Bulgarie","Eolien en mer",,
+2018,"Bulgarie","Eolien en mer",,
+2019,"Bulgarie","Eolien en mer",,
+2020,"Bulgarie","Eolien en mer",,
+2021,"Bulgarie","Eolien en mer",,
+2022,"Bulgarie","Eolien en mer",,
+2023,"Bulgarie","Eolien en mer",,
+2024,"Bulgarie","Eolien en mer",,
+2016,"Bulgarie","Eolien terrestre",0,701
+2017,"Bulgarie","Eolien terrestre",0,7
+2018,"Bulgarie","Eolien terrestre",0,7
+2019,"Bulgarie","Eolien terrestre",0,7
+2020,"Bulgarie","Eolien terrestre",0,705
+2021,"Bulgarie","Eolien terrestre",0,705
+2022,"Bulgarie","Eolien terrestre",0,705
+2023,"Bulgarie","Eolien terrestre",0,711
+2024,"Bulgarie","Eolien terrestre",0,716
+2016,"Bulgarie","Solaire",1,46
+2017,"Bulgarie","Solaire",1,52
+2018,"Bulgarie","Solaire",1,59
+2019,"Bulgarie","Solaire",1,84
+2020,"Bulgarie","Solaire",1,246
+2021,"Bulgarie","Solaire",1,726
+2022,"Bulgarie","Solaire",3,92
+2023,"Bulgarie","Solaire",4,568
+2024,"Bulgarie","Solaire",5,63
+2016,"Bulgarie","Hydraulique",3,204
+2017,"Bulgarie","Hydraulique",3,208
+2018,"Bulgarie","Hydraulique",3,211
+2019,"Bulgarie","Hydraulique",3,211
+2020,"Bulgarie","Hydraulique",3,213
+2021,"Bulgarie","Hydraulique",3,214
+2022,"Bulgarie","Hydraulique",3,216
+2023,"Bulgarie","Hydraulique",3,211
+2024,"Bulgarie","Hydraulique",3,211
+2016,"Bulgarie","Fioul",,
+2017,"Bulgarie","Fioul",,
+2018,"Bulgarie","Fioul",,
+2019,"Bulgarie","Fioul",,
+2020,"Bulgarie","Fioul",,
+2021,"Bulgarie","Fioul",,
+2022,"Bulgarie","Fioul",,
+2023,"Bulgarie","Fioul",,
+2024,"Bulgarie","Fioul",,
+2016,"Bulgarie","Gaz",0,561
+2017,"Bulgarie","Gaz",0,981
+2018,"Bulgarie","Gaz",1,232
+2019,"Bulgarie","Gaz",1,232
+2020,"Bulgarie","Gaz",1,266
+2021,"Bulgarie","Gaz",1,305
+2022,"Bulgarie","Gaz",0,695
+2023,"Bulgarie","Gaz",0,723
+2024,"Bulgarie","Gaz",0,727
+2016,"Bulgarie","Charbon",4,481
+2017,"Bulgarie","Charbon",4,481
+2018,"Bulgarie","Charbon",4,475
+2019,"Bulgarie","Charbon",4,475
+2020,"Bulgarie","Charbon",4,475
+2021,"Bulgarie","Charbon",4,475
+2022,"Bulgarie","Charbon",4,475
+2023,"Bulgarie","Charbon",4,475
+2024,"Bulgarie","Charbon",4,455
+2016,"Bulgarie","Nucléaire",2,
+2017,"Bulgarie","Nucléaire",2,
+2018,"Bulgarie","Nucléaire",2,
+2019,"Bulgarie","Nucléaire",2,
+2020,"Bulgarie","Nucléaire",2,
+2021,"Bulgarie","Nucléaire",2,8
+2022,"Bulgarie","Nucléaire",2,8
+2023,"Bulgarie","Nucléaire",2,8
+2024,"Bulgarie","Nucléaire",2,
+2016,"Bulgarie","Toutes les filières",12,73
+2017,"Bulgarie","Toutes les filières",12,502
+2018,"Bulgarie","Toutes les filières",12,757
+2019,"Bulgarie","Toutes les filières",12,782
+2020,"Bulgarie","Toutes les filières",12,986
+2021,"Bulgarie","Toutes les filières",13,585
+2022,"Bulgarie","Toutes les filières",14,343
+2023,"Bulgarie","Toutes les filières",15,848
+2024,"Bulgarie","Toutes les filières",16,802
+2016,"République tchèque","Autres",0,4
+2017,"République tchèque","Autres",0,4
+2018,"République tchèque","Autres",0,4
+2019,"République tchèque","Autres",0,41
+2020,"République tchèque","Autres",0,41
+2021,"République tchèque","Autres",0,41
+2022,"République tchèque","Autres",0,41
+2023,"République tchèque","Autres",0,46
+2024,"République tchèque","Autres",0,46
+2016,"République tchèque","Dechets",0,1
+2017,"République tchèque","Dechets",0,1
+2018,"République tchèque","Dechets",0,1
+2019,"République tchèque","Dechets",0,1
+2020,"République tchèque","Dechets",0,1
+2021,"République tchèque","Dechets",0,1
+2022,"République tchèque","Dechets",0,1
+2023,"République tchèque","Dechets",0,1
+2024,"République tchèque","Dechets",0,1
+2016,"République tchèque","Biogaz",,
+2017,"République tchèque","Biogaz",,
+2018,"République tchèque","Biogaz",,
+2019,"République tchèque","Biogaz",,
+2020,"République tchèque","Biogaz",,
+2021,"République tchèque","Biogaz",,
+2022,"République tchèque","Biogaz",,
+2023,"République tchèque","Biogaz",,
+2024,"République tchèque","Biogaz",,
+2016,"République tchèque","Biomasse",0,35
+2017,"République tchèque","Biomasse",0,35
+2018,"République tchèque","Biomasse",0,4
+2019,"République tchèque","Biomasse",0,41
+2020,"République tchèque","Biomasse",0,41
+2021,"République tchèque","Biomasse",0,41
+2022,"République tchèque","Biomasse",0,41
+2023,"République tchèque","Biomasse",0,41
+2024,"République tchèque","Biomasse",0,41
+2016,"République tchèque","Eolien en mer",,
+2017,"République tchèque","Eolien en mer",,
+2018,"République tchèque","Eolien en mer",,
+2019,"République tchèque","Eolien en mer",,
+2020,"République tchèque","Eolien en mer",,
+2021,"République tchèque","Eolien en mer",,
+2022,"République tchèque","Eolien en mer",,
+2023,"République tchèque","Eolien en mer",,
+2024,"République tchèque","Eolien en mer",,
+2016,"République tchèque","Eolien terrestre",0,277
+2017,"République tchèque","Eolien terrestre",0,308
+2018,"République tchèque","Eolien terrestre",0,316
+2019,"République tchèque","Eolien terrestre",0,339
+2020,"République tchèque","Eolien terrestre",0,339
+2021,"République tchèque","Eolien terrestre",0,339
+2022,"République tchèque","Eolien terrestre",0,339
+2023,"République tchèque","Eolien terrestre",0,342
+2024,"République tchèque","Eolien terrestre",0,366
+2016,"République tchèque","Solaire",2,27
+2017,"République tchèque","Solaire",2,4
+2018,"République tchèque","Solaire",2,49
+2019,"République tchèque","Solaire",2,61
+2020,"République tchèque","Solaire",2,54
+2021,"République tchèque","Solaire",2,53
+2022,"République tchèque","Solaire",2,83
+2023,"République tchèque","Solaire",3,548
+2024,"République tchèque","Solaire",4,415
+2016,"République tchèque","Hydraulique",2,259
+2017,"République tchèque","Hydraulique",2,259
+2018,"République tchèque","Hydraulique",2,259
+2019,"République tchèque","Hydraulique",2,26
+2020,"République tchèque","Hydraulique",2,263
+2021,"République tchèque","Hydraulique",2,281
+2022,"République tchèque","Hydraulique",2,284
+2023,"République tchèque","Hydraulique",2,278
+2024,"République tchèque","Hydraulique",2,279
+2016,"République tchèque","Fioul",,
+2017,"République tchèque","Fioul",,
+2018,"République tchèque","Fioul",,
+2019,"République tchèque","Fioul",,
+2020,"République tchèque","Fioul",,
+2021,"République tchèque","Fioul",,
+2022,"République tchèque","Fioul",,
+2023,"République tchèque","Fioul",,
+2024,"République tchèque","Fioul",,
+2016,"République tchèque","Gaz",1,606
+2017,"République tchèque","Gaz",1,606
+2018,"République tchèque","Gaz",1,606
+2019,"République tchèque","Gaz",1,606
+2020,"République tchèque","Gaz",1,606
+2021,"République tchèque","Gaz",1,62
+2022,"République tchèque","Gaz",1,62
+2023,"République tchèque","Gaz",1,62
+2024,"République tchèque","Gaz",1,62
+2016,"République tchèque","Charbon",9,129
+2017,"République tchèque","Charbon",9,742
+2018,"République tchèque","Charbon",9,65
+2019,"République tchèque","Charbon",9,35
+2020,"République tchèque","Charbon",8,9
+2021,"République tchèque","Charbon",8,45
+2022,"République tchèque","Charbon",8,36
+2023,"République tchèque","Charbon",8,4
+2024,"République tchèque","Charbon",8,44
+2016,"République tchèque","Nucléaire",4,4
+2017,"République tchèque","Nucléaire",4,4
+2018,"République tchèque","Nucléaire",4,4
+2019,"République tchèque","Nucléaire",4,4
+2020,"République tchèque","Nucléaire",4,4
+2021,"République tchèque","Nucléaire",4,4
+2022,"République tchèque","Nucléaire",4,4
+2023,"République tchèque","Nucléaire",4,4
+2024,"République tchèque","Nucléaire",4,4
+2016,"République tchèque","Toutes les filières",20,188
+2017,"République tchèque","Toutes les filières",20,845
+2018,"République tchèque","Toutes les filières",20,82
+2019,"République tchèque","Toutes les filières",20,576
+2020,"République tchèque","Toutes les filières",20,122
+2021,"République tchèque","Toutes les filières",19,703
+2022,"République tchèque","Toutes les filières",19,646
+2023,"République tchèque","Toutes les filières",21,198
+2024,"République tchèque","Toutes les filières",22,13
+2016,"Allemagne","Autres",1,9708299865723
+2017,"Allemagne","Autres",1,9524999885559
+2018,"Allemagne","Autres",1,7213399963379
+2019,"Allemagne","Autres",2,126900100708
+2020,"Allemagne","Autres",2,1029000091553
+2021,"Allemagne","Autres",2,821599502563
+2022,"Allemagne","Autres",2,1457599945068
+2023,"Allemagne","Autres",2,40450012207
+2024,"Allemagne","Autres",2,724190032959
+2016,"Allemagne","Dechets",1,685
+2017,"Allemagne","Dechets",1,686
+2018,"Allemagne","Dechets",1,686
+2019,"Allemagne","Dechets",1,6605999755859
+2020,"Allemagne","Dechets",1,6395999755859
+2021,"Allemagne","Dechets",1,5985
+2022,"Allemagne","Dechets",1,912
+2023,"Allemagne","Dechets",1,808
+2024,"Allemagne","Dechets",1,863
+2016,"Allemagne","Biogaz",,
+2017,"Allemagne","Biogaz",,
+2018,"Allemagne","Biogaz",,
+2019,"Allemagne","Biogaz",,
+2020,"Allemagne","Biogaz",,
+2021,"Allemagne","Biogaz",,
+2022,"Allemagne","Biogaz",,
+2023,"Allemagne","Biogaz",,
+2024,"Allemagne","Biogaz",,
+2016,"Allemagne","Biomasse",7,8025
+2017,"Allemagne","Biomasse",7,396490234375
+2018,"Allemagne","Biomasse",7,7521298828125
+2019,"Allemagne","Biomasse",7,9866298828125
+2020,"Allemagne","Biomasse",8,400080078125
+2021,"Allemagne","Biomasse",8,3318896484375
+2022,"Allemagne","Biomasse",8,4667998046875
+2023,"Allemagne","Biomasse",8,5765400390625
+2024,"Allemagne","Biomasse",8,766
+2016,"Allemagne","Eolien en mer",4,1312998046875
+2017,"Allemagne","Eolien en mer",5,51
+2018,"Allemagne","Eolien en mer",6,393
+2019,"Allemagne","Eolien en mer",7,5036899414063
+2020,"Allemagne","Eolien en mer",7,7738198242187
+2021,"Allemagne","Eolien en mer",7,7868198242188
+2022,"Allemagne","Eolien en mer",8,1288198242188
+2023,"Allemagne","Eolien en mer",8,456
+2024,"Allemagne","Eolien en mer",9,215
+2016,"Allemagne","Eolien terrestre",47,42
+2017,"Allemagne","Eolien terrestre",51,633
+2018,"Allemagne","Eolien terrestre",52,79162890625
+2019,"Allemagne","Eolien terrestre",53,1841484375
+2020,"Allemagne","Eolien terrestre",54,499171875
+2021,"Allemagne","Eolien terrestre",55,2893203125
+2022,"Allemagne","Eolien terrestre",57,58955078125
+2023,"Allemagne","Eolien terrestre",59,84062109375
+2024,"Allemagne","Eolien terrestre",63,192171875
+2016,"Allemagne","Solaire",40,8344609375
+2017,"Allemagne","Solaire",42,80425
+2018,"Allemagne","Solaire",45,29898046875
+2019,"Allemagne","Solaire",48,2063984375
+2020,"Allemagne","Solaire",53,301921875
+2021,"Allemagne","Solaire",57,7442890625
+2022,"Allemagne","Solaire",63,6603125
+2023,"Allemagne","Solaire",76,6005625
+2024,"Allemagne","Solaire",86,407578125
+2016,"Allemagne","Hydraulique",14,340370117188
+2017,"Allemagne","Hydraulique",14,218300292969
+2018,"Allemagne","Hydraulique",14,702919921875
+2019,"Allemagne","Hydraulique",14,688709960937
+2020,"Allemagne","Hydraulique",14,532780029297
+2021,"Allemagne","Hydraulique",14,336770263672
+2022,"Allemagne","Hydraulique",14,42825
+2023,"Allemagne","Hydraulique",14,560800048828
+2024,"Allemagne","Hydraulique",14,733579833984
+2016,"Allemagne","Fioul",4,614
+2017,"Allemagne","Fioul",4,271
+2018,"Allemagne","Fioul",4,356
+2019,"Allemagne","Fioul",4,3725297851563
+2020,"Allemagne","Fioul",4,1843598632812
+2021,"Allemagne","Fioul",3,9662800292969
+2022,"Allemagne","Fioul",4,83
+2023,"Allemagne","Fioul",4,118
+2024,"Allemagne","Fioul",6,913830078125
+2016,"Allemagne","Gaz",32,627
+2017,"Allemagne","Gaz",31,361
+2018,"Allemagne","Gaz",31,664
+2019,"Allemagne","Gaz",31,712060546875
+2020,"Allemagne","Gaz",31,94223046875
+2021,"Allemagne","Gaz",30,552720703125
+2022,"Allemagne","Gaz",33,65
+2023,"Allemagne","Gaz",37,512
+2024,"Allemagne","Gaz",38,52855859375
+2016,"Allemagne","Charbon",48,699
+2017,"Allemagne","Charbon",46,31
+2018,"Allemagne","Charbon",46,498
+2019,"Allemagne","Charbon",43,525400390625
+2020,"Allemagne","Charbon",43,986400390625
+2021,"Allemagne","Charbon",37,373798828125
+2022,"Allemagne","Charbon",36,251
+2023,"Allemagne","Charbon",36,774
+2024,"Allemagne","Charbon",31,127
+2016,"Allemagne","Nucléaire",10,793
+2017,"Allemagne","Nucléaire",9,516
+2018,"Allemagne","Nucléaire",9,516
+2019,"Allemagne","Nucléaire",8,114
+2020,"Allemagne","Nucléaire",8,114
+2021,"Allemagne","Nucléaire",4,56
+2022,"Allemagne","Nucléaire",4,56
+2023,"Allemagne","Nucléaire",,
+2024,"Allemagne","Nucléaire",,
+2016,"Allemagne","Toutes les filières",213,81721084595
+2017,"Allemagne","Toutes les filières",216,1995405159
+2018,"Allemagne","Toutes les filières",222,37999917603
+2019,"Allemagne","Toutes les filières",222,96685736847
+2020,"Allemagne","Toutes les filières",230,47726438904
+2021,"Allemagne","Toutes les filières",223,11854862213
+2022,"Allemagne","Toutes les filières",233,19221165466
+2023,"Allemagne","Toutes les filières",250,28697369385
+2024,"Allemagne","Toutes les filières",263,47090853882
+2016,"Danemark","Autres",0,88
+2017,"Danemark","Autres",0,146
+2018,"Danemark","Autres",0,135
+2019,"Danemark","Autres",0,137
+2020,"Danemark","Autres",0,142
+2021,"Danemark","Autres",0,137
+2022,"Danemark","Autres",0,13560000610352
+2023,"Danemark","Autres",,
+2024,"Danemark","Autres",,
+2016,"Danemark","Dechets",0,363
+2017,"Danemark","Dechets",0,384
+2018,"Danemark","Dechets",0,384
+2019,"Danemark","Dechets",0,384
+2020,"Danemark","Dechets",0,384
+2021,"Danemark","Dechets",0,384
+2022,"Danemark","Dechets",0,38489999389648
+2023,"Danemark","Dechets",,
+2024,"Danemark","Dechets",,
+2016,"Danemark","Biogaz",,
+2017,"Danemark","Biogaz",,
+2018,"Danemark","Biogaz",,
+2019,"Danemark","Biogaz",,
+2020,"Danemark","Biogaz",,
+2021,"Danemark","Biogaz",,
+2022,"Danemark","Biogaz",,
+2023,"Danemark","Biogaz",,
+2024,"Danemark","Biogaz",,
+2016,"Danemark","Biomasse",0,197
+2017,"Danemark","Biomasse",1,696
+2018,"Danemark","Biomasse",1,722
+2019,"Danemark","Biomasse",1,872
+2020,"Danemark","Biomasse",1,872
+2021,"Danemark","Biomasse",1,87
+2022,"Danemark","Biomasse",1,7541999511719
+2023,"Danemark","Biomasse",,
+2024,"Danemark","Biomasse",,
+2016,"Danemark","Eolien en mer",1,271
+2017,"Danemark","Eolien en mer",1,7
+2018,"Danemark","Eolien en mer",1,7
+2019,"Danemark","Eolien en mer",1,7
+2020,"Danemark","Eolien en mer",1,7
+2021,"Danemark","Eolien en mer",2,305
+2022,"Danemark","Eolien en mer",2,3056999511719
+2023,"Danemark","Eolien en mer",2,646
+2024,"Danemark","Eolien en mer",,
+2016,"Danemark","Eolien terrestre",3,574
+2017,"Danemark","Eolien terrestre",4,423
+2018,"Danemark","Eolien terrestre",4,426
+2019,"Danemark","Eolien terrestre",4,402
+2020,"Danemark","Eolien terrestre",4,481
+2021,"Danemark","Eolien terrestre",4,644
+2022,"Danemark","Eolien terrestre",4,7105
+2023,"Danemark","Eolien terrestre",4,86
+2024,"Danemark","Eolien terrestre",,
+2016,"Danemark","Solaire",0,601
+2017,"Danemark","Solaire",1,2
+2018,"Danemark","Solaire",1,14
+2019,"Danemark","Solaire",1,13
+2020,"Danemark","Solaire",1,3
+2021,"Danemark","Solaire",1,536
+2022,"Danemark","Solaire",2,3215
+2023,"Danemark","Solaire",3,73
+2024,"Danemark","Solaire",,
+2016,"Danemark","Hydraulique",0,9
+2017,"Danemark","Hydraulique",0,6
+2018,"Danemark","Hydraulique",0,7
+2019,"Danemark","Hydraulique",0,7
+2020,"Danemark","Hydraulique",0,7
+2021,"Danemark","Hydraulique",0,7
+2022,"Danemark","Hydraulique",0,53000001907349
+2023,"Danemark","Hydraulique",,
+2024,"Danemark","Hydraulique",,
+2016,"Danemark","Fioul",1,51
+2017,"Danemark","Fioul",1,7
+2018,"Danemark","Fioul",1,7
+2019,"Danemark","Fioul",1,9
+2020,"Danemark","Fioul",1,1
+2021,"Danemark","Fioul",0,997
+2022,"Danemark","Fioul",0,95909997558594
+2023,"Danemark","Fioul",,
+2024,"Danemark","Fioul",,
+2016,"Danemark","Gaz",2,941
+2017,"Danemark","Gaz",1,826
+2018,"Danemark","Gaz",1,814
+2019,"Danemark","Gaz",1,739
+2020,"Danemark","Gaz",1,654
+2021,"Danemark","Gaz",1,621
+2022,"Danemark","Gaz",1,5680999755859
+2023,"Danemark","Gaz",,
+2024,"Danemark","Gaz",,
+2016,"Danemark","Charbon",4,847
+2017,"Danemark","Charbon",3,656
+2018,"Danemark","Charbon",3,656
+2019,"Danemark","Charbon",3,656
+2020,"Danemark","Charbon",3,414
+2021,"Danemark","Charbon",3,165
+2022,"Danemark","Charbon",3,215
+2023,"Danemark","Charbon",,
+2024,"Danemark","Charbon",,
+2016,"Danemark","Nucléaire",,
+2017,"Danemark","Nucléaire",,
+2018,"Danemark","Nucléaire",,
+2019,"Danemark","Nucléaire",,
+2020,"Danemark","Nucléaire",,
+2021,"Danemark","Nucléaire",,
+2022,"Danemark","Nucléaire",,
+2023,"Danemark","Nucléaire",,
+2024,"Danemark","Nucléaire",,
+2016,"Danemark","Toutes les filières",14,942
+2017,"Danemark","Toutes les filières",15,846
+2018,"Danemark","Toutes les filières",15,865
+2019,"Danemark","Toutes les filières",15,919
+2020,"Danemark","Toutes les filières",15,964
+2021,"Danemark","Toutes les filières",16,666
+2022,"Danemark","Toutes les filières",17,166399853706
+2023,"Danemark","Toutes les filières",11,236
+2024,"Danemark","Toutes les filières",,
+2016,"Estonie","Autres",0,6
+2017,"Estonie","Autres",0,5
+2018,"Estonie","Autres",0,11829999923706
+2019,"Estonie","Autres",0,11800000190735
+2020,"Estonie","Autres",0,1
+2021,"Estonie","Autres",0,13
+2022,"Estonie","Autres",0,2
+2023,"Estonie","Autres",0,2
+2024,"Estonie","Autres",0,2
+2016,"Estonie","Dechets",0,2
+2017,"Estonie","Dechets",0,19
+2018,"Estonie","Dechets",0,18540000915527
+2019,"Estonie","Dechets",0,18799999237061
+2020,"Estonie","Dechets",0,17
+2021,"Estonie","Dechets",0,17
+2022,"Estonie","Dechets",0,17
+2023,"Estonie","Dechets",0,17
+2024,"Estonie","Dechets",0,17
+2016,"Estonie","Biogaz",,
+2017,"Estonie","Biogaz",,
+2018,"Estonie","Biogaz",,
+2019,"Estonie","Biogaz",,
+2020,"Estonie","Biogaz",,
+2021,"Estonie","Biogaz",,
+2022,"Estonie","Biogaz",,
+2023,"Estonie","Biogaz",,
+2024,"Estonie","Biogaz",,
+2016,"Estonie","Biomasse",0,86
+2017,"Estonie","Biomasse",0,102
+2018,"Estonie","Biomasse",0,15719999694824
+2019,"Estonie","Biomasse",0,15669999694824
+2020,"Estonie","Biomasse",0,175
+2021,"Estonie","Biomasse",0,13
+2022,"Estonie","Biomasse",0,152
+2023,"Estonie","Biomasse",0,15030000305176
+2024,"Estonie","Biomasse",0,15030000305176
+2016,"Estonie","Eolien en mer",,
+2017,"Estonie","Eolien en mer",,
+2018,"Estonie","Eolien en mer",,
+2019,"Estonie","Eolien en mer",,
+2020,"Estonie","Eolien en mer",,
+2021,"Estonie","Eolien en mer",,
+2022,"Estonie","Eolien en mer",,
+2023,"Estonie","Eolien en mer",,
+2024,"Estonie","Eolien en mer",,
+2016,"Estonie","Eolien terrestre",0,384
+2017,"Estonie","Eolien terrestre",0,487
+2018,"Estonie","Eolien terrestre",0,46239999389648
+2019,"Estonie","Eolien terrestre",0,32879998779297
+2020,"Estonie","Eolien terrestre",0,329
+2021,"Estonie","Eolien terrestre",0,326
+2022,"Estonie","Eolien terrestre",0,317
+2023,"Estonie","Eolien terrestre",0,447
+2024,"Estonie","Eolien terrestre",0,682
+2016,"Estonie","Solaire",0,13999999761581
+2017,"Estonie","Solaire",0,13999999761581
+2018,"Estonie","Solaire",0,33
+2019,"Estonie","Solaire",0,12269999694824
+2020,"Estonie","Solaire",0,164
+2021,"Estonie","Solaire",0,37
+2022,"Estonie","Solaire",0,51
+2023,"Estonie","Solaire",0,812
+2024,"Estonie","Solaire",1,174
+2016,"Estonie","Hydraulique",0,8
+2017,"Estonie","Hydraulique",0,8
+2018,"Estonie","Hydraulique",0,71300001144409
+2019,"Estonie","Hydraulique",0,83999996185303
+2020,"Estonie","Hydraulique",0,8
+2021,"Estonie","Hydraulique",0,4
+2022,"Estonie","Hydraulique",0,8
+2023,"Estonie","Hydraulique",0,8
+2024,"Estonie","Hydraulique",0,8
+2016,"Estonie","Fioul",,
+2017,"Estonie","Fioul",,
+2018,"Estonie","Fioul",0,78699998855591
+2019,"Estonie","Fioul",0,79000000953674
+2020,"Estonie","Fioul",,
+2021,"Estonie","Fioul",0,52
+2022,"Estonie","Fioul",,
+2023,"Estonie","Fioul",,
+2024,"Estonie","Fioul",,
+2016,"Estonie","Gaz",2,1903999938965
+2017,"Estonie","Gaz",2,18
+2018,"Estonie","Gaz",2,1468600502014
+2019,"Estonie","Gaz",2,1821999969482
+2020,"Estonie","Gaz",1,634
+2021,"Estonie","Gaz",1,49
+2022,"Estonie","Gaz",1,518
+2023,"Estonie","Gaz",1,4237000017166
+2024,"Estonie","Gaz",1,4219000015259
+2016,"Estonie","Charbon",,
+2017,"Estonie","Charbon",,
+2018,"Estonie","Charbon",,
+2019,"Estonie","Charbon",,
+2020,"Estonie","Charbon",,
+2021,"Estonie","Charbon",,
+2022,"Estonie","Charbon",,
+2023,"Estonie","Charbon",,
+2024,"Estonie","Charbon",,
+2016,"Estonie","Nucléaire",,
+2017,"Estonie","Nucléaire",,
+2018,"Estonie","Nucléaire",,
+2019,"Estonie","Nucléaire",,
+2020,"Estonie","Nucléaire",,
+2021,"Estonie","Nucléaire",,
+2022,"Estonie","Nucléaire",,
+2023,"Estonie","Nucléaire",,
+2024,"Estonie","Nucléaire",,
+2016,"Estonie","Toutes les filières",2,6957999938726
+2017,"Estonie","Toutes les filières",2,8023999999762
+2018,"Estonie","Toutes les filières",2,8448300418854
+2019,"Estonie","Toutes les filières",2,8372999777794
+2020,"Estonie","Toutes les filières",2,337
+2021,"Estonie","Toutes les filières",2,402
+2022,"Estonie","Toutes les filières",2,542
+2023,"Estonie","Toutes les filières",2,8780000047684
+2024,"Estonie","Toutes les filières",3,4732000045776
+2016,"Espagne","Autres",0,36000000762939
+2017,"Espagne","Autres",0,37910001373291
+2018,"Espagne","Autres",0,37829999542236
+2019,"Espagne","Autres",0,39219998931885
+2020,"Espagne","Autres",0,38619998931885
+2021,"Espagne","Autres",0,39010001373291
+2022,"Espagne","Autres",0,40329999542236
+2023,"Espagne","Autres",0,40909999084473
+2024,"Espagne","Autres",0,75030001831055
+2016,"Espagne","Dechets",0,53609997558594
+2017,"Espagne","Dechets",0,54409997558594
+2018,"Espagne","Dechets",0,53759997558594
+2019,"Espagne","Dechets",0,54309997558594
+2020,"Espagne","Dechets",0,53709997558594
+2021,"Espagne","Dechets",0,56529998779297
+2022,"Espagne","Dechets",0,54590002441406
+2023,"Espagne","Dechets",0,54590002441406
+2024,"Espagne","Dechets",0,54590002441406
+2016,"Espagne","Biogaz",,
+2017,"Espagne","Biogaz",,
+2018,"Espagne","Biogaz",,
+2019,"Espagne","Biogaz",,
+2020,"Espagne","Biogaz",,
+2021,"Espagne","Biogaz",,
+2022,"Espagne","Biogaz",,
+2023,"Espagne","Biogaz",,
+2024,"Espagne","Biogaz",,
+2016,"Espagne","Biomasse",0,5405
+2017,"Espagne","Biomasse",0,51990002441406
+2018,"Espagne","Biomasse",0,507
+2019,"Espagne","Biomasse",0,55459997558594
+2020,"Espagne","Biomasse",0,704
+2021,"Espagne","Biomasse",0,70229998779297
+2022,"Espagne","Biomasse",0,70709997558594
+2023,"Espagne","Biomasse",0,7075
+2024,"Espagne","Biomasse",0,70909997558594
+2016,"Espagne","Eolien en mer",,
+2017,"Espagne","Eolien en mer",,
+2018,"Espagne","Eolien en mer",,
+2019,"Espagne","Eolien en mer",,
+2020,"Espagne","Eolien en mer",,
+2021,"Espagne","Eolien en mer",,
+2022,"Espagne","Eolien en mer",,
+2023,"Espagne","Eolien en mer",,
+2024,"Espagne","Eolien en mer",,
+2016,"Espagne","Eolien terrestre",22,81269921875
+2017,"Espagne","Eolien terrestre",22,834099609375
+2018,"Espagne","Eolien terrestre",22,960599609375
+2019,"Espagne","Eolien terrestre",24,446599609375
+2020,"Espagne","Eolien terrestre",26,663599609375
+2021,"Espagne","Eolien terrestre",27,73480078125
+2022,"Espagne","Eolien terrestre",29,320400390625
+2023,"Espagne","Eolien terrestre",30,15930078125
+2024,"Espagne","Eolien terrestre",30,931900390625
+2016,"Espagne","Solaire",6,7203999023438
+2017,"Espagne","Solaire",6,7223999023438
+2018,"Espagne","Solaire",6,7511000976563
+2019,"Espagne","Solaire",8,4657998046875
+2020,"Espagne","Solaire",11,3895
+2021,"Espagne","Solaire",14,639900390625
+2022,"Espagne","Solaire",18,5225
+2023,"Espagne","Solaire",23,86730078125
+2024,"Espagne","Solaire",29,47
+2016,"Espagne","Hydraulique",25,915000732422
+2017,"Espagne","Hydraulique",25,926599853516
+2018,"Espagne","Hydraulique",25,947400634766
+2019,"Espagne","Hydraulique",25,939600341797
+2020,"Espagne","Hydraulique",25,985899169922
+2021,"Espagne","Hydraulique",26,36899169922
+2022,"Espagne","Hydraulique",20,345000244141
+2023,"Espagne","Hydraulique",20,343700439453
+2024,"Espagne","Hydraulique",20,336299560547
+2016,"Espagne","Fioul",0,71520001220703
+2017,"Espagne","Fioul",0,71520001220703
+2018,"Espagne","Fioul",0,71379998779297
+2019,"Espagne","Fioul",0,7065
+2020,"Espagne","Fioul",0,67840002441406
+2021,"Espagne","Fioul",0,669
+2022,"Espagne","Fioul",0,66970001220703
+2023,"Espagne","Fioul",0,70370001220703
+2024,"Espagne","Fioul",0,67220001220703
+2016,"Espagne","Gaz",30,723099609375
+2017,"Espagne","Gaz",30,682900390625
+2018,"Espagne","Gaz",30,26630078125
+2019,"Espagne","Gaz",30,1230078125
+2020,"Espagne","Gaz",29,9695
+2021,"Espagne","Gaz",29,926900390625
+2022,"Espagne","Gaz",29,902599609375
+2023,"Espagne","Gaz",29,87280078125
+2024,"Espagne","Gaz",29,94330078125
+2016,"Espagne","Charbon",9,5347001953125
+2017,"Espagne","Charbon",9,5347001953125
+2018,"Espagne","Charbon",9,5607001953125
+2019,"Espagne","Charbon",9,213900390625
+2020,"Espagne","Charbon",5,977
+2021,"Espagne","Charbon",4,6417998046875
+2022,"Espagne","Charbon",3,2226000976563
+2023,"Espagne","Charbon",3,2226000976563
+2024,"Espagne","Charbon",1,8196999511719
+2016,"Espagne","Nucléaire",7,5723999023437
+2017,"Espagne","Nucléaire",7,1172001953125
+2018,"Espagne","Nucléaire",7,1172001953125
+2019,"Espagne","Nucléaire",7,1172001953125
+2020,"Espagne","Nucléaire",7,1172001953125
+2021,"Espagne","Nucléaire",7,1172001953125
+2022,"Espagne","Nucléaire",7,1172001953125
+2023,"Espagne","Nucléaire",7,1172001953125
+2024,"Espagne","Nucléaire",7,1172001953125
+2016,"Espagne","Toutes les filières",105,43009955597
+2017,"Espagne","Toutes les filières",104,97620017242
+2018,"Espagne","Toutes les filières",104,74000147247
+2019,"Espagne","Toutes les filières",107,39180106354
+2020,"Espagne","Toutes les filières",109,40839896393
+2021,"Espagne","Toutes les filières",112,42420072174
+2022,"Espagne","Toutes les filières",110,75630054474
+2023,"Espagne","Toutes les filières",116,94910310364
+2024,"Espagne","Toutes les filières",121,87290090942
+2016,"Finlande","Autres",0,648
+2017,"Finlande","Autres",0,619
+2018,"Finlande","Autres",0,591
+2019,"Finlande","Autres",0,71
+2020,"Finlande","Autres",0,709
+2021,"Finlande","Autres",0,784
+2022,"Finlande","Autres",0,828
+2023,"Finlande","Autres",0,84
+2024,"Finlande","Autres",0,74869998168945
+2016,"Finlande","Dechets",0,126
+2017,"Finlande","Dechets",0,157
+2018,"Finlande","Dechets",0,157
+2019,"Finlande","Dechets",0,163
+2020,"Finlande","Dechets",0,163
+2021,"Finlande","Dechets",0,114
+2022,"Finlande","Dechets",0,114
+2023,"Finlande","Dechets",0,87
+2024,"Finlande","Dechets",0,925
+2016,"Finlande","Biogaz",,
+2017,"Finlande","Biogaz",,
+2018,"Finlande","Biogaz",,
+2019,"Finlande","Biogaz",,
+2020,"Finlande","Biogaz",,
+2021,"Finlande","Biogaz",,
+2022,"Finlande","Biogaz",,
+2023,"Finlande","Biogaz",,
+2024,"Finlande","Biogaz",,
+2016,"Finlande","Biomasse",1,663
+2017,"Finlande","Biomasse",1,813
+2018,"Finlande","Biomasse",1,804
+2019,"Finlande","Biomasse",1,86
+2020,"Finlande","Biomasse",1,86
+2021,"Finlande","Biomasse",1,895
+2022,"Finlande","Biomasse",1,833
+2023,"Finlande","Biomasse",1,695
+2024,"Finlande","Biomasse",1,9419000244141
+2016,"Finlande","Eolien en mer",,
+2017,"Finlande","Eolien en mer",,
+2018,"Finlande","Eolien en mer",,
+2019,"Finlande","Eolien en mer",,
+2020,"Finlande","Eolien en mer",,
+2021,"Finlande","Eolien en mer",,
+2022,"Finlande","Eolien en mer",,
+2023,"Finlande","Eolien en mer",,
+2024,"Finlande","Eolien en mer",,
+2016,"Finlande","Eolien terrestre",1,432
+2017,"Finlande","Eolien terrestre",1,908
+2018,"Finlande","Eolien terrestre",2,13
+2019,"Finlande","Eolien terrestre",2,145
+2020,"Finlande","Eolien terrestre",2,422
+2021,"Finlande","Eolien terrestre",3,184
+2022,"Finlande","Eolien terrestre",5,121
+2023,"Finlande","Eolien terrestre",6,618
+2024,"Finlande","Eolien terrestre",8,224
+2016,"Finlande","Solaire",,
+2017,"Finlande","Solaire",,
+2018,"Finlande","Solaire",0,3
+2019,"Finlande","Solaire",0,7
+2020,"Finlande","Solaire",0,7
+2021,"Finlande","Solaire",0,7
+2022,"Finlande","Solaire",0,18
+2023,"Finlande","Solaire",0,27
+2024,"Finlande","Solaire",0,46599998474121
+2016,"Finlande","Hydraulique",3,107
+2017,"Finlande","Hydraulique",3,149
+2018,"Finlande","Hydraulique",3,148
+2019,"Finlande","Hydraulique",3,148
+2020,"Finlande","Hydraulique",3,153
+2021,"Finlande","Hydraulique",3,167
+2022,"Finlande","Hydraulique",3,167
+2023,"Finlande","Hydraulique",3,173
+2024,"Finlande","Hydraulique",3,195
+2016,"Finlande","Fioul",1,427
+2017,"Finlande","Fioul",1,386
+2018,"Finlande","Fioul",1,434
+2019,"Finlande","Fioul",1,3
+2020,"Finlande","Fioul",1,89
+2021,"Finlande","Fioul",1,51
+2022,"Finlande","Fioul",1,51
+2023,"Finlande","Fioul",1,51
+2024,"Finlande","Fioul",1,51
+2016,"Finlande","Gaz",2,872
+2017,"Finlande","Gaz",3,
+2018,"Finlande","Gaz",3,47
+2019,"Finlande","Gaz",2,984
+2020,"Finlande","Gaz",2,984
+2021,"Finlande","Gaz",3,51
+2022,"Finlande","Gaz",2,831
+2023,"Finlande","Gaz",2,786
+2024,"Finlande","Gaz",2,5912999267578
+2016,"Finlande","Charbon",2,854
+2017,"Finlande","Charbon",2,278
+2018,"Finlande","Charbon",2,278
+2019,"Finlande","Charbon",2,163
+2020,"Finlande","Charbon",1,682
+2021,"Finlande","Charbon",1,682
+2022,"Finlande","Charbon",1,557
+2023,"Finlande","Charbon",1,41
+2024,"Finlande","Charbon",1,3205
+2016,"Finlande","Nucléaire",2,782
+2017,"Finlande","Nucléaire",2,782
+2018,"Finlande","Nucléaire",2,785
+2019,"Finlande","Nucléaire",2,794
+2020,"Finlande","Nucléaire",2,794
+2021,"Finlande","Nucléaire",2,794
+2022,"Finlande","Nucléaire",2,794
+2023,"Finlande","Nucléaire",4,364
+2024,"Finlande","Nucléaire",4,364
+2016,"Finlande","Toutes les filières",16,911
+2017,"Finlande","Toutes les filières",17,92
+2018,"Finlande","Toutes les filières",17,26
+2019,"Finlande","Toutes les filières",17,274
+2020,"Finlande","Toutes les filières",16,863
+2021,"Finlande","Toutes les filières",17,729
+2022,"Finlande","Toutes les filières",19,314
+2023,"Finlande","Toutes les filières",22,51
+2024,"Finlande","Toutes les filières",23,575499931335
+2016,"France","Autres",0,7809
+2017,"France","Autres",0,11523
+2018,"France","Autres",0,39112
+2019,"France","Autres",0,49895
+2020,"France","Autres",0,48528
+2021,"France","Autres",0,57598
+2022,"France","Autres",0,7359795
+2023,"France","Autres",0,7287593
+2024,"France","Autres",0,7666857
+2016,"France","Dechets",0,966774
+2017,"France","Dechets",0,950677
+2018,"France","Dechets",0,961422
+2019,"France","Dechets",0,97181787896
+2020,"France","Dechets",0,97334087896
+2021,"France","Dechets",0,95995187896
+2022,"France","Dechets",0,900885
+2023,"France","Dechets",0,953515
+2024,"France","Dechets",0,971775
+2016,"France","Biogaz",0,373763
+2017,"France","Biogaz",0,415786
+2018,"France","Biogaz",0,447202
+2019,"France","Biogaz",0,489588110587
+2020,"France","Biogaz",0,534941110587
+2021,"France","Biogaz",0,552523110587
+2022,"France","Biogaz",0,5448664
+2023,"France","Biogaz",0,55238824
+2024,"France","Biogaz",0,56514354
+2016,"France","Biomasse",0,557808
+2017,"France","Biomasse",0,562658
+2018,"France","Biomasse",0,61791
+2019,"France","Biomasse",0,619355070465
+2020,"France","Biomasse",0,633274070465
+2021,"France","Biomasse",0,672285070465
+2022,"France","Biomasse",0,723247
+2023,"France","Biomasse",0,723946
+2024,"France","Biomasse",0,723983
+2016,"France","Eolien en mer",,
+2017,"France","Eolien en mer",,
+2018,"France","Eolien en mer",0,35
+2019,"France","Eolien en mer",0,35
+2020,"France","Eolien en mer",0,35
+2021,"France","Eolien en mer",0,35
+2022,"France","Eolien en mer",0,4835
+2023,"France","Eolien en mer",0,8435
+2024,"France","Eolien en mer",1,504
+2016,"France","Eolien terrestre",11,794833
+2017,"France","Eolien terrestre",13,5088149
+2018,"France","Eolien terrestre",15,640319
+2019,"France","Eolien terrestre",16,4551633
+2020,"France","Eolien terrestre",17,5446508
+2021,"France","Eolien terrestre",18,8281904
+2022,"France","Eolien terrestre",20,57057995
+2023,"France","Eolien terrestre",21,84379885
+2024,"France","Eolien terrestre",22,94882927
+2016,"France","Solaire",6,787195
+2017,"France","Solaire",7,641303380002
+2018,"France","Solaire",8,556977986536
+2019,"France","Solaire",9,480824962747
+2020,"France","Solaire",10,355848831428
+2021,"France","Solaire",13,86941426773
+2022,"France","Solaire",16,59126290999
+2023,"France","Solaire",19,402923537999
+2024,"France","Solaire",24,351511324998
+2016,"France","Hydraulique",25,6239020001
+2017,"France","Hydraulique",25,5589545001
+2018,"France","Hydraulique",25,5551215001
+2019,"France","Hydraulique",25,7054475001
+2020,"France","Hydraulique",25,6514615001
+2021,"France","Hydraulique",25,6659990001
+2022,"France","Hydraulique",25,6801485901
+2023,"France","Hydraulique",25,6944824501
+2024,"France","Hydraulique",25,7198991001
+2016,"France","Fioul",7,8427
+2017,"France","Fioul",3,935683
+2018,"France","Fioul",3,204789
+2019,"France","Fioul",3,156233
+2020,"France","Fioul",3,154616
+2021,"France","Fioul",3,17534
+2022,"France","Fioul",2,998488
+2023,"France","Fioul",2,991133
+2024,"France","Fioul",2,992355
+2016,"France","Gaz",11,506915
+2017,"France","Gaz",11,72950205
+2018,"France","Gaz",11,92596
+2019,"France","Gaz",11,970887
+2020,"France","Gaz",12,72057338
+2021,"France","Gaz",12,611008338
+2022,"France","Gaz",12,64742289
+2023,"France","Gaz",12,64126889
+2024,"France","Gaz",12,58668389
+2016,"France","Charbon",2,978004
+2017,"France","Charbon",2,978004
+2018,"France","Charbon",2,978004
+2019,"France","Charbon",2,978004
+2020,"France","Charbon",2,978004
+2021,"France","Charbon",1,818004
+2022,"France","Charbon",1,810503
+2023,"France","Charbon",1,810503
+2024,"France","Charbon",1,810503
+2016,"France","Nucléaire",63,13
+2017,"France","Nucléaire",63,13
+2018,"France","Nucléaire",63,13
+2019,"France","Nucléaire",63,13
+2020,"France","Nucléaire",61,37
+2021,"France","Nucléaire",61,37
+2022,"France","Nucléaire",61,37
+2023,"France","Nucléaire",61,37
+2024,"France","Nucléaire",61,37
+2016,"France","Toutes les filières",130,7354300001
+2017,"France","Toutes les filières",130,4229058301
+2018,"France","Toutes les filières",132,48403038664
+2019,"France","Toutes les filières",135,1071582286
+2020,"France","Toutes les filières",135,32022252954
+2021,"France","Toutes les filières",138,80134122489
+2022,"France","Toutes les filières",143,8623650711
+2023,"France","Toutes les filières",148,9003348981
+2024,"France","Toutes les filières",155,6213516951
+2016,"Grèce","Autres",0,69
+2017,"Grèce","Autres",0,69
+2018,"Grèce","Autres",0,69
+2019,"Grèce","Autres",0,105
+2020,"Grèce","Autres",0,106
+2021,"Grèce","Autres",0,109
+2022,"Grèce","Autres",0,12
+2023,"Grèce","Autres",0,128
+2024,"Grèce","Autres",0,132
+2016,"Grèce","Dechets",,
+2017,"Grèce","Dechets",,
+2018,"Grèce","Dechets",,
+2019,"Grèce","Dechets",,
+2020,"Grèce","Dechets",,
+2021,"Grèce","Dechets",,
+2022,"Grèce","Dechets",,
+2023,"Grèce","Dechets",,
+2024,"Grèce","Dechets",,
+2016,"Grèce","Biogaz",,
+2017,"Grèce","Biogaz",,
+2018,"Grèce","Biogaz",,
+2019,"Grèce","Biogaz",,
+2020,"Grèce","Biogaz",,
+2021,"Grèce","Biogaz",,
+2022,"Grèce","Biogaz",,
+2023,"Grèce","Biogaz",,
+2024,"Grèce","Biogaz",,
+2016,"Grèce","Biomasse",0,51
+2017,"Grèce","Biomasse",0,51
+2018,"Grèce","Biomasse",0,51
+2019,"Grèce","Biomasse",0,86
+2020,"Grèce","Biomasse",0,95
+2021,"Grèce","Biomasse",0,106
+2022,"Grèce","Biomasse",0,127
+2023,"Grèce","Biomasse",0,12
+2024,"Grèce","Biomasse",0,146
+2016,"Grèce","Eolien en mer",,
+2017,"Grèce","Eolien en mer",,
+2018,"Grèce","Eolien en mer",,
+2019,"Grèce","Eolien en mer",,
+2020,"Grèce","Eolien en mer",,
+2021,"Grèce","Eolien en mer",,
+2022,"Grèce","Eolien en mer",,
+2023,"Grèce","Eolien en mer",,
+2024,"Grèce","Eolien en mer",,
+2016,"Grèce","Eolien terrestre",1,875
+2017,"Grèce","Eolien terrestre",2,228
+2018,"Grèce","Eolien terrestre",2,355
+2019,"Grèce","Eolien terrestre",3,153
+2020,"Grèce","Eolien terrestre",3,755
+2021,"Grèce","Eolien terrestre",4,15
+2022,"Grèce","Eolien terrestre",4,547
+2023,"Grèce","Eolien terrestre",5,65
+2024,"Grèce","Eolien terrestre",5,225
+2016,"Grèce","Solaire",2,441
+2017,"Grèce","Solaire",2,441
+2018,"Grèce","Solaire",2,441
+2019,"Grèce","Solaire",2,606
+2020,"Grèce","Solaire",3,55
+2021,"Grèce","Solaire",3,82
+2022,"Grèce","Solaire",5,1
+2023,"Grèce","Solaire",6,7
+2024,"Grèce","Solaire",9,
+2016,"Grèce","Hydraulique",3,401
+2017,"Grèce","Hydraulique",3,401
+2018,"Grèce","Hydraulique",3,401
+2019,"Grèce","Hydraulique",3,401
+2020,"Grèce","Hydraulique",3,414
+2021,"Grèce","Hydraulique",3,421
+2022,"Grèce","Hydraulique",3,423
+2023,"Grèce","Hydraulique",3,429
+2024,"Grèce","Hydraulique",3,407
+2016,"Grèce","Fioul",,
+2017,"Grèce","Fioul",,
+2018,"Grèce","Fioul",,
+2019,"Grèce","Fioul",,
+2020,"Grèce","Fioul",,
+2021,"Grèce","Fioul",,
+2022,"Grèce","Fioul",,
+2023,"Grèce","Fioul",,
+2024,"Grèce","Fioul",,
+2016,"Grèce","Gaz",5,245
+2017,"Grèce","Gaz",5,245
+2018,"Grèce","Gaz",4,902
+2019,"Grèce","Gaz",4,902
+2020,"Grèce","Gaz",4,902
+2021,"Grèce","Gaz",5,213
+2022,"Grèce","Gaz",6,3
+2023,"Grèce","Gaz",6,3
+2024,"Grèce","Gaz",6,3
+2016,"Grèce","Charbon",3,912
+2017,"Grèce","Charbon",3,912
+2018,"Grèce","Charbon",3,912
+2019,"Grèce","Charbon",3,362
+2020,"Grèce","Charbon",2,561
+2021,"Grèce","Charbon",2,1
+2022,"Grèce","Charbon",2,65
+2023,"Grèce","Charbon",2,65
+2024,"Grèce","Charbon",1,8
+2016,"Grèce","Nucléaire",,
+2017,"Grèce","Nucléaire",,
+2018,"Grèce","Nucléaire",,
+2019,"Grèce","Nucléaire",,
+2020,"Grèce","Nucléaire",,
+2021,"Grèce","Nucléaire",,
+2022,"Grèce","Nucléaire",,
+2023,"Grèce","Nucléaire",,
+2024,"Grèce","Nucléaire",,
+2016,"Grèce","Toutes les filières",16,994
+2017,"Grèce","Toutes les filières",17,347
+2018,"Grèce","Toutes les filières",17,131
+2019,"Grèce","Toutes les filières",17,615
+2020,"Grèce","Toutes les filières",17,888
+2021,"Grèce","Toutes les filières",18,82
+2022,"Grèce","Toutes les filières",21,997
+2023,"Grèce","Toutes les filières",24,122
+2024,"Grèce","Toutes les filières",25,74
+2016,"Croatie","Autres",0,39
+2017,"Croatie","Autres",0,46
+2018,"Croatie","Autres",0,59
+2019,"Croatie","Autres",0,6
+2020,"Croatie","Autres",0,64
+2021,"Croatie","Autres",0,67
+2022,"Croatie","Autres",0,93
+2023,"Croatie","Autres",0,105
+2024,"Croatie","Autres",0,125
+2016,"Croatie","Dechets",0,6
+2017,"Croatie","Dechets",0,6
+2018,"Croatie","Dechets",0,6
+2019,"Croatie","Dechets",0,6
+2020,"Croatie","Dechets",0,6
+2021,"Croatie","Dechets",0,6
+2022,"Croatie","Dechets",0,6
+2023,"Croatie","Dechets",0,6
+2024,"Croatie","Dechets",0,8
+2016,"Croatie","Biogaz",,
+2017,"Croatie","Biogaz",,
+2018,"Croatie","Biogaz",,
+2019,"Croatie","Biogaz",,
+2020,"Croatie","Biogaz",,
+2021,"Croatie","Biogaz",,
+2022,"Croatie","Biogaz",,
+2023,"Croatie","Biogaz",,
+2024,"Croatie","Biogaz",,
+2016,"Croatie","Biomasse",0,36
+2017,"Croatie","Biomasse",0,52
+2018,"Croatie","Biomasse",0,71
+2019,"Croatie","Biomasse",0,91
+2020,"Croatie","Biomasse",0,108
+2021,"Croatie","Biomasse",0,111
+2022,"Croatie","Biomasse",0,114
+2023,"Croatie","Biomasse",0,114
+2024,"Croatie","Biomasse",0,114
+2016,"Croatie","Eolien en mer",,
+2017,"Croatie","Eolien en mer",,
+2018,"Croatie","Eolien en mer",,
+2019,"Croatie","Eolien en mer",,
+2020,"Croatie","Eolien en mer",,
+2021,"Croatie","Eolien en mer",,
+2022,"Croatie","Eolien en mer",,
+2023,"Croatie","Eolien en mer",,
+2024,"Croatie","Eolien en mer",,
+2016,"Croatie","Eolien terrestre",0,537
+2017,"Croatie","Eolien terrestre",0,582
+2018,"Croatie","Eolien terrestre",0,616
+2019,"Croatie","Eolien terrestre",0,739
+2020,"Croatie","Eolien terrestre",0,796
+2021,"Croatie","Eolien terrestre",0,925
+2022,"Croatie","Eolien terrestre",0,981
+2023,"Croatie","Eolien terrestre",1,209
+2024,"Croatie","Eolien terrestre",1,24
+2016,"Croatie","Solaire",0,51
+2017,"Croatie","Solaire",0,52
+2018,"Croatie","Solaire",0,53
+2019,"Croatie","Solaire",0,53
+2020,"Croatie","Solaire",0,85
+2021,"Croatie","Solaire",0,96
+2022,"Croatie","Solaire",0,14
+2023,"Croatie","Solaire",0,292
+2024,"Croatie","Solaire",0,45
+2016,"Croatie","Hydraulique",2,9
+2017,"Croatie","Hydraulique",2,9
+2018,"Croatie","Hydraulique",2,14
+2019,"Croatie","Hydraulique",2,146
+2020,"Croatie","Hydraulique",2,153
+2021,"Croatie","Hydraulique",2,155
+2022,"Croatie","Hydraulique",2,155
+2023,"Croatie","Hydraulique",2,155
+2024,"Croatie","Hydraulique",2,155
+2016,"Croatie","Fioul",0,95
+2017,"Croatie","Fioul",0,95
+2018,"Croatie","Fioul",0,937
+2019,"Croatie","Fioul",0,937
+2020,"Croatie","Fioul",0,77
+2021,"Croatie","Fioul",0,75
+2022,"Croatie","Fioul",0,45
+2023,"Croatie","Fioul",0,45
+2024,"Croatie","Fioul",0,45
+2016,"Croatie","Gaz",0,743
+2017,"Croatie","Gaz",0,743
+2018,"Croatie","Gaz",0,743
+2019,"Croatie","Gaz",0,743
+2020,"Croatie","Gaz",0,743
+2021,"Croatie","Gaz",0,75
+2022,"Croatie","Gaz",0,766
+2023,"Croatie","Gaz",0,886
+2024,"Croatie","Gaz",0,798
+2016,"Croatie","Charbon",0,325
+2017,"Croatie","Charbon",0,325
+2018,"Croatie","Charbon",0,332
+2019,"Croatie","Charbon",0,332
+2020,"Croatie","Charbon",0,217
+2021,"Croatie","Charbon",0,217
+2022,"Croatie","Charbon",0,217
+2023,"Croatie","Charbon",0,217
+2024,"Croatie","Charbon",0,217
+2016,"Croatie","Nucléaire",,
+2017,"Croatie","Nucléaire",,
+2018,"Croatie","Nucléaire",,
+2019,"Croatie","Nucléaire",,
+2020,"Croatie","Nucléaire",,
+2021,"Croatie","Nucléaire",,
+2022,"Croatie","Nucléaire",,
+2023,"Croatie","Nucléaire",,
+2024,"Croatie","Nucléaire",,
+2016,"Croatie","Toutes les filières",4,777
+2017,"Croatie","Toutes les filières",4,846
+2018,"Croatie","Toutes les filières",4,957
+2019,"Croatie","Toutes les filières",5,107
+2020,"Croatie","Toutes les filières",4,249
+2021,"Croatie","Toutes les filières",4,402
+2022,"Croatie","Toutes les filières",4,517
+2023,"Croatie","Toutes les filières",5,29
+2024,"Croatie","Toutes les filières",5,152
+2016,"Hongrie","Autres",0,63880001068115
+2017,"Hongrie","Autres",0,68319999694824
+2018,"Hongrie","Autres",0,77100001573563
+2019,"Hongrie","Autres",0,76210002183914
+2020,"Hongrie","Autres",0,72159999132156
+2021,"Hongrie","Autres",0,72299998521805
+2022,"Hongrie","Autres",0,94859999895096
+2023,"Hongrie","Autres",0,10881299901009
+2024,"Hongrie","Autres",0,21918300175667
+2016,"Hongrie","Dechets",0,2810000038147
+2017,"Hongrie","Dechets",0,35639999389648
+2018,"Hongrie","Dechets",0,59439998626709
+2019,"Hongrie","Dechets",0,59439998626709
+2020,"Hongrie","Dechets",0,49439998626709
+2021,"Hongrie","Dechets",0,49439998626709
+2022,"Hongrie","Dechets",0,49439998626709
+2023,"Hongrie","Dechets",0,49436000823975
+2024,"Hongrie","Dechets",0,49436000823975
+2016,"Hongrie","Biogaz",,
+2017,"Hongrie","Biogaz",,
+2018,"Hongrie","Biogaz",,
+2019,"Hongrie","Biogaz",,
+2020,"Hongrie","Biogaz",,
+2021,"Hongrie","Biogaz",,
+2022,"Hongrie","Biogaz",,
+2023,"Hongrie","Biogaz",,
+2024,"Hongrie","Biogaz",,
+2016,"Hongrie","Biomasse",0,24594999694824
+2017,"Hongrie","Biomasse",0,25085000610352
+2018,"Hongrie","Biomasse",0,24594999694824
+2019,"Hongrie","Biomasse",0,24064999389648
+2020,"Hongrie","Biomasse",0,21264999389648
+2021,"Hongrie","Biomasse",0,21264999389648
+2022,"Hongrie","Biomasse",0,21264999389648
+2023,"Hongrie","Biomasse",0,31365200805664
+2024,"Hongrie","Biomasse",0,31365200805664
+2016,"Hongrie","Eolien en mer",,
+2017,"Hongrie","Eolien en mer",,
+2018,"Hongrie","Eolien en mer",,
+2019,"Hongrie","Eolien en mer",,
+2020,"Hongrie","Eolien en mer",,
+2021,"Hongrie","Eolien en mer",,
+2022,"Hongrie","Eolien en mer",,
+2023,"Hongrie","Eolien en mer",,
+2024,"Hongrie","Eolien en mer",,
+2016,"Hongrie","Eolien terrestre",0,32425
+2017,"Hongrie","Eolien terrestre",0,32489999389648
+2018,"Hongrie","Eolien terrestre",0,32748001098633
+2019,"Hongrie","Eolien terrestre",0,3232799987793
+2020,"Hongrie","Eolien terrestre",0,3232799987793
+2021,"Hongrie","Eolien terrestre",0,3232799987793
+2022,"Hongrie","Eolien terrestre",0,3232799987793
+2023,"Hongrie","Eolien terrestre",0,32507501220703
+2024,"Hongrie","Eolien terrestre",0,32507501220703
+2016,"Hongrie","Solaire",0,69730003356934
+2017,"Hongrie","Solaire",0,33554998779297
+2018,"Hongrie","Solaire",0,93625
+2019,"Hongrie","Solaire",1,4065100097656
+2020,"Hongrie","Solaire",1,8286600341797
+2021,"Hongrie","Solaire",2,5235700683594
+2022,"Hongrie","Solaire",3,3003701171875
+2023,"Hongrie","Solaire",4,290769042969
+2024,"Hongrie","Solaire",8,2812177734375
+2016,"Hongrie","Hydraulique",0,55979999542236
+2017,"Hongrie","Hydraulique",0,56200000762939
+2018,"Hongrie","Hydraulique",0,57809999465942
+2019,"Hongrie","Hydraulique",0,58289999008179
+2020,"Hongrie","Hydraulique",0,58289999008179
+2021,"Hongrie","Hydraulique",0,61189998626709
+2022,"Hongrie","Hydraulique",0,61189998626709
+2023,"Hongrie","Hydraulique",0,61157001495361
+2024,"Hongrie","Hydraulique",0,62356998443604
+2016,"Hongrie","Fioul",0,41
+2017,"Hongrie","Fioul",0,41205999755859
+2018,"Hongrie","Fioul",0,42105999755859
+2019,"Hongrie","Fioul",0,42
+2020,"Hongrie","Fioul",0,42
+2021,"Hongrie","Fioul",0,42479998779297
+2022,"Hongrie","Fioul",0,42479998779297
+2023,"Hongrie","Fioul",0,42479998779297
+2024,"Hongrie","Fioul",0,42479998779297
+2016,"Hongrie","Gaz",4,1137202148437
+2017,"Hongrie","Gaz",4,1069399414063
+2018,"Hongrie","Gaz",4,284299316406
+2019,"Hongrie","Gaz",4,302900390625
+2020,"Hongrie","Gaz",4,113601074219
+2021,"Hongrie","Gaz",3,9744799804688
+2022,"Hongrie","Gaz",3,1511398925781
+2023,"Hongrie","Gaz",3,1663959960938
+2024,"Hongrie","Gaz",2,9750070800781
+2016,"Hongrie","Charbon",1,488699951172
+2017,"Hongrie","Charbon",1,488699951172
+2018,"Hongrie","Charbon",1,488699951172
+2019,"Hongrie","Charbon",1,488700294495
+2020,"Hongrie","Charbon",1,488700294495
+2021,"Hongrie","Charbon",1,488700294495
+2022,"Hongrie","Charbon",0,82889999771118
+2023,"Hongrie","Charbon",0,82889999771118
+2024,"Hongrie","Charbon",0,82889999771118
+2016,"Hongrie","Nucléaire",1,8867900390625
+2017,"Hongrie","Nucléaire",1,8988699951172
+2018,"Hongrie","Nucléaire",1,8988699951172
+2019,"Hongrie","Nucléaire",1,8988699951172
+2020,"Hongrie","Nucléaire",1,9099300537109
+2021,"Hongrie","Nucléaire",1,9155999755859
+2022,"Hongrie","Nucléaire",1,9155999755859
+2023,"Hongrie","Nucléaire",1,9155999755859
+2024,"Hongrie","Nucléaire",1,9155999755859
+2016,"Hongrie","Toutes les filières",8,2472702503204
+2017,"Hongrie","Toutes les filières",8,5381999168396
+2018,"Hongrie","Toutes les filières",9,1012599270344
+2019,"Hongrie","Toutes les filières",9,5624100658894
+2020,"Hongrie","Toutes les filières",9,9346402142048
+2021,"Hongrie","Toutes les filières",10,606180030107
+2022,"Hongrie","Toutes les filières",10,36222996068
+2023,"Hongrie","Toutes les filières",11,222905883074
+2024,"Hongrie","Toutes les filières",15,395227835894
+2016,"Italie","Autres",2,579
+2017,"Italie","Autres",6,659
+2018,"Italie","Autres",1,86
+2019,"Italie","Autres",2,263
+2020,"Italie","Autres",1,706
+2021,"Italie","Autres",1,694
+2022,"Italie","Autres",1,722
+2023,"Italie","Autres",1,203
+2024,"Italie","Autres",1,306
+2016,"Italie","Dechets",0,241
+2017,"Italie","Dechets",0,142
+2018,"Italie","Dechets",0,132
+2019,"Italie","Dechets",0,125
+2020,"Italie","Dechets",0,125
+2021,"Italie","Dechets",0,122
+2022,"Italie","Dechets",0,12
+2023,"Italie","Dechets",0,67
+2024,"Italie","Dechets",0,671
+2016,"Italie","Biogaz",,
+2017,"Italie","Biogaz",,
+2018,"Italie","Biogaz",,
+2019,"Italie","Biogaz",,
+2020,"Italie","Biogaz",,
+2021,"Italie","Biogaz",,
+2022,"Italie","Biogaz",,
+2023,"Italie","Biogaz",,
+2024,"Italie","Biogaz",,
+2016,"Italie","Biomasse",1,625
+2017,"Italie","Biomasse",1,354
+2018,"Italie","Biomasse",1,538
+2019,"Italie","Biomasse",1,549
+2020,"Italie","Biomasse",1,587
+2021,"Italie","Biomasse",1,548
+2022,"Italie","Biomasse",1,534
+2023,"Italie","Biomasse",1,543
+2024,"Italie","Biomasse",1,539
+2016,"Italie","Eolien en mer",,
+2017,"Italie","Eolien en mer",,
+2018,"Italie","Eolien en mer",,
+2019,"Italie","Eolien en mer",,
+2020,"Italie","Eolien en mer",,
+2021,"Italie","Eolien en mer",,
+2022,"Italie","Eolien en mer",0,3
+2023,"Italie","Eolien en mer",0,3
+2024,"Italie","Eolien en mer",0,3
+2016,"Italie","Eolien terrestre",9,24
+2017,"Italie","Eolien terrestre",9,261
+2018,"Italie","Eolien terrestre",9,617
+2019,"Italie","Eolien terrestre",10,224
+2020,"Italie","Eolien terrestre",10,302
+2021,"Italie","Eolien terrestre",10,658
+2022,"Italie","Eolien terrestre",11,204
+2023,"Italie","Eolien terrestre",11,651
+2024,"Italie","Eolien terrestre",12,233
+2016,"Italie","Solaire",4,659
+2017,"Italie","Solaire",4,719
+2018,"Italie","Solaire",4,717
+2019,"Italie","Solaire",4,874
+2020,"Italie","Solaire",4,979
+2021,"Italie","Solaire",5,137
+2022,"Italie","Solaire",5,431
+2023,"Italie","Solaire",5,927
+2024,"Italie","Solaire",8,922
+2016,"Italie","Hydraulique",21,921
+2017,"Italie","Hydraulique",22,12
+2018,"Italie","Hydraulique",22,81
+2019,"Italie","Hydraulique",22,176
+2020,"Italie","Hydraulique",22,202
+2021,"Italie","Hydraulique",22,204
+2022,"Italie","Hydraulique",22,249
+2023,"Italie","Hydraulique",22,89
+2024,"Italie","Hydraulique",22,11
+2016,"Italie","Fioul",4,928
+2017,"Italie","Fioul",2,475
+2018,"Italie","Fioul",1,443
+2019,"Italie","Fioul",1,493
+2020,"Italie","Fioul",1,48
+2021,"Italie","Fioul",1,49
+2022,"Italie","Fioul",1,543
+2023,"Italie","Fioul",1,564
+2024,"Italie","Fioul",1,548
+2016,"Italie","Gaz",40,814
+2017,"Italie","Gaz",41,128
+2018,"Italie","Gaz",48,134
+2019,"Italie","Gaz",44,287
+2020,"Italie","Gaz",43,989
+2021,"Italie","Gaz",44,2
+2022,"Italie","Gaz",46,287
+2023,"Italie","Gaz",47,228
+2024,"Italie","Gaz",47,625
+2016,"Italie","Charbon",7,902
+2017,"Italie","Charbon",6,3
+2018,"Italie","Charbon",4,851
+2019,"Italie","Charbon",7,617
+2020,"Italie","Charbon",6,987
+2021,"Italie","Charbon",6,376
+2022,"Italie","Charbon",5,576
+2023,"Italie","Charbon",5,583
+2024,"Italie","Charbon",5,227
+2016,"Italie","Nucléaire",,
+2017,"Italie","Nucléaire",,
+2018,"Italie","Nucléaire",,
+2019,"Italie","Nucléaire",,
+2020,"Italie","Nucléaire",,
+2021,"Italie","Nucléaire",,
+2022,"Italie","Nucléaire",,
+2023,"Italie","Nucléaire",,
+2024,"Italie","Nucléaire",,
+2016,"Italie","Toutes les filières",93,693
+2017,"Italie","Toutes les filières",93,78
+2018,"Italie","Toutes les filières",94,373
+2019,"Italie","Toutes les filières",94,608
+2020,"Italie","Toutes les filières",93,357
+2021,"Italie","Toutes les filières",93,231
+2022,"Italie","Toutes les filières",95,696
+2023,"Italie","Toutes les filières",97,488
+2024,"Italie","Toutes les filières",101,211
+2016,"Lituanie","Autres",0,119
+2017,"Lituanie","Autres",0,37
+2018,"Lituanie","Autres",0,14
+2019,"Lituanie","Autres",0,144
+2020,"Lituanie","Autres",0,37
+2021,"Lituanie","Autres",0,37
+2022,"Lituanie","Autres",0,37
+2023,"Lituanie","Autres",0,37
+2024,"Lituanie","Autres",0,37
+2016,"Lituanie","Dechets",0,21
+2017,"Lituanie","Dechets",0,22
+2018,"Lituanie","Dechets",0,21
+2019,"Lituanie","Dechets",0,22
+2020,"Lituanie","Dechets",0,48
+2021,"Lituanie","Dechets",0,7
+2022,"Lituanie","Dechets",0,7
+2023,"Lituanie","Dechets",0,7
+2024,"Lituanie","Dechets",0,7
+2016,"Lituanie","Biogaz",,
+2017,"Lituanie","Biogaz",,
+2018,"Lituanie","Biogaz",,
+2019,"Lituanie","Biogaz",,
+2020,"Lituanie","Biogaz",,
+2021,"Lituanie","Biogaz",,
+2022,"Lituanie","Biogaz",,
+2023,"Lituanie","Biogaz",,
+2024,"Lituanie","Biogaz",,
+2016,"Lituanie","Biomasse",0,101
+2017,"Lituanie","Biomasse",0,102
+2018,"Lituanie","Biomasse",0,96
+2019,"Lituanie","Biomasse",0,98
+2020,"Lituanie","Biomasse",0,99
+2021,"Lituanie","Biomasse",0,95
+2022,"Lituanie","Biomasse",0,99
+2023,"Lituanie","Biomasse",0,196
+2024,"Lituanie","Biomasse",0,196
+2016,"Lituanie","Eolien en mer",,
+2017,"Lituanie","Eolien en mer",,
+2018,"Lituanie","Eolien en mer",,
+2019,"Lituanie","Eolien en mer",,
+2020,"Lituanie","Eolien en mer",,
+2021,"Lituanie","Eolien en mer",,
+2022,"Lituanie","Eolien en mer",,
+2023,"Lituanie","Eolien en mer",,
+2024,"Lituanie","Eolien en mer",,
+2016,"Lituanie","Eolien terrestre",0,426
+2017,"Lituanie","Eolien terrestre",0,509
+2018,"Lituanie","Eolien terrestre",0,525
+2019,"Lituanie","Eolien terrestre",0,534
+2020,"Lituanie","Eolien terrestre",0,54
+2021,"Lituanie","Eolien terrestre",0,671
+2022,"Lituanie","Eolien terrestre",0,814
+2023,"Lituanie","Eolien terrestre",1,288
+2024,"Lituanie","Eolien terrestre",1,683
+2016,"Lituanie","Solaire",0,8
+2017,"Lituanie","Solaire",0,82
+2018,"Lituanie","Solaire",0,82
+2019,"Lituanie","Solaire",0,103
+2020,"Lituanie","Solaire",0,169
+2021,"Lituanie","Solaire",0,259
+2022,"Lituanie","Solaire",0,578
+2023,"Lituanie","Solaire",1,165
+2024,"Lituanie","Solaire",1,787
+2016,"Lituanie","Hydraulique",1,28
+2017,"Lituanie","Hydraulique",1,28
+2018,"Lituanie","Hydraulique",1,28
+2019,"Lituanie","Hydraulique",1,28
+2020,"Lituanie","Hydraulique",1,28
+2021,"Lituanie","Hydraulique",1,28
+2022,"Lituanie","Hydraulique",1,28
+2023,"Lituanie","Hydraulique",1,29
+2024,"Lituanie","Hydraulique",1,29
+2016,"Lituanie","Fioul",0,16
+2017,"Lituanie","Fioul",,
+2018,"Lituanie","Fioul",,
+2019,"Lituanie","Fioul",,
+2020,"Lituanie","Fioul",,
+2021,"Lituanie","Fioul",,
+2022,"Lituanie","Fioul",,
+2023,"Lituanie","Fioul",,
+2024,"Lituanie","Fioul",,
+2016,"Lituanie","Gaz",1,656
+2017,"Lituanie","Gaz",1,873
+2018,"Lituanie","Gaz",1,71
+2019,"Lituanie","Gaz",1,77
+2020,"Lituanie","Gaz",1,887
+2021,"Lituanie","Gaz",1,527
+2022,"Lituanie","Gaz",1,518
+2023,"Lituanie","Gaz",1,503
+2024,"Lituanie","Gaz",1,503
+2016,"Lituanie","Charbon",,
+2017,"Lituanie","Charbon",,
+2018,"Lituanie","Charbon",,
+2019,"Lituanie","Charbon",,
+2020,"Lituanie","Charbon",,
+2021,"Lituanie","Charbon",,
+2022,"Lituanie","Charbon",,
+2023,"Lituanie","Charbon",,
+2024,"Lituanie","Charbon",,
+2016,"Lituanie","Nucléaire",,
+2017,"Lituanie","Nucléaire",,
+2018,"Lituanie","Nucléaire",,
+2019,"Lituanie","Nucléaire",,
+2020,"Lituanie","Nucléaire",,
+2021,"Lituanie","Nucléaire",,
+2022,"Lituanie","Nucléaire",,
+2023,"Lituanie","Nucléaire",,
+2024,"Lituanie","Nucléaire",,
+2016,"Lituanie","Toutes les filières",3,591
+2017,"Lituanie","Toutes les filières",3,653
+2018,"Lituanie","Toutes les filières",3,602
+2019,"Lituanie","Toutes les filières",3,699
+2020,"Lituanie","Toutes les filières",3,808
+2021,"Lituanie","Toutes les filières",3,687
+2022,"Lituanie","Toutes les filières",4,144
+2023,"Lituanie","Toutes les filières",5,288
+2024,"Lituanie","Toutes les filières",6,305
+2016,"Lettonie","Autres",,
+2017,"Lettonie","Autres",,
+2018,"Lettonie","Autres",,
+2019,"Lettonie","Autres",,
+2020,"Lettonie","Autres",,
+2021,"Lettonie","Autres",,
+2022,"Lettonie","Autres",,
+2023,"Lettonie","Autres",,
+2024,"Lettonie","Autres",,
+2016,"Lettonie","Dechets",,
+2017,"Lettonie","Dechets",,
+2018,"Lettonie","Dechets",,
+2019,"Lettonie","Dechets",,
+2020,"Lettonie","Dechets",,
+2021,"Lettonie","Dechets",,
+2022,"Lettonie","Dechets",,
+2023,"Lettonie","Dechets",,
+2024,"Lettonie","Dechets",,
+2016,"Lettonie","Biogaz",,
+2017,"Lettonie","Biogaz",,
+2018,"Lettonie","Biogaz",,
+2019,"Lettonie","Biogaz",,
+2020,"Lettonie","Biogaz",,
+2021,"Lettonie","Biogaz",,
+2022,"Lettonie","Biogaz",,
+2023,"Lettonie","Biogaz",,
+2024,"Lettonie","Biogaz",,
+2016,"Lettonie","Biomasse",0,10537000274658
+2017,"Lettonie","Biomasse",0,105
+2018,"Lettonie","Biomasse",0,126
+2019,"Lettonie","Biomasse",0,145
+2020,"Lettonie","Biomasse",0,149
+2021,"Lettonie","Biomasse",0,164
+2022,"Lettonie","Biomasse",0,177
+2023,"Lettonie","Biomasse",0,166
+2024,"Lettonie","Biomasse",0,166
+2016,"Lettonie","Eolien en mer",,
+2017,"Lettonie","Eolien en mer",,
+2018,"Lettonie","Eolien en mer",,
+2019,"Lettonie","Eolien en mer",,
+2020,"Lettonie","Eolien en mer",,
+2021,"Lettonie","Eolien en mer",,
+2022,"Lettonie","Eolien en mer",,
+2023,"Lettonie","Eolien en mer",,
+2024,"Lettonie","Eolien en mer",,
+2016,"Lettonie","Eolien terrestre",0,53150001525879
+2017,"Lettonie","Eolien terrestre",0,53
+2018,"Lettonie","Eolien terrestre",0,59
+2019,"Lettonie","Eolien terrestre",0,74
+2020,"Lettonie","Eolien terrestre",0,84
+2021,"Lettonie","Eolien terrestre",0,87
+2022,"Lettonie","Eolien terrestre",0,165
+2023,"Lettonie","Eolien terrestre",0,136
+2024,"Lettonie","Eolien terrestre",0,136
+2016,"Lettonie","Solaire",,
+2017,"Lettonie","Solaire",,
+2018,"Lettonie","Solaire",0,7
+2019,"Lettonie","Solaire",0,9
+2020,"Lettonie","Solaire",0,11
+2021,"Lettonie","Solaire",0,14
+2022,"Lettonie","Solaire",0,63
+2023,"Lettonie","Solaire",0,303
+2024,"Lettonie","Solaire",0,45
+2016,"Lettonie","Hydraulique",1,5386199951172
+2017,"Lettonie","Hydraulique",1,539
+2018,"Lettonie","Hydraulique",1,539
+2019,"Lettonie","Hydraulique",1,578
+2020,"Lettonie","Hydraulique",1,578
+2021,"Lettonie","Hydraulique",1,588
+2022,"Lettonie","Hydraulique",1,609
+2023,"Lettonie","Hydraulique",1,588
+2024,"Lettonie","Hydraulique",1,588
+2016,"Lettonie","Fioul",,
+2017,"Lettonie","Fioul",,
+2018,"Lettonie","Fioul",,
+2019,"Lettonie","Fioul",,
+2020,"Lettonie","Fioul",,
+2021,"Lettonie","Fioul",,
+2022,"Lettonie","Fioul",,
+2023,"Lettonie","Fioul",,
+2024,"Lettonie","Fioul",,
+2016,"Lettonie","Gaz",1,1237900390625
+2017,"Lettonie","Gaz",1,124
+2018,"Lettonie","Gaz",1,11
+2019,"Lettonie","Gaz",1,26
+2020,"Lettonie","Gaz",1,21
+2021,"Lettonie","Gaz",1,162
+2022,"Lettonie","Gaz",1,157
+2023,"Lettonie","Gaz",1,112
+2024,"Lettonie","Gaz",1,112
+2016,"Lettonie","Charbon",,
+2017,"Lettonie","Charbon",,
+2018,"Lettonie","Charbon",,
+2019,"Lettonie","Charbon",,
+2020,"Lettonie","Charbon",,
+2021,"Lettonie","Charbon",,
+2022,"Lettonie","Charbon",,
+2023,"Lettonie","Charbon",,
+2024,"Lettonie","Charbon",,
+2016,"Lettonie","Nucléaire",,
+2017,"Lettonie","Nucléaire",,
+2018,"Lettonie","Nucléaire",,
+2019,"Lettonie","Nucléaire",,
+2020,"Lettonie","Nucléaire",,
+2021,"Lettonie","Nucléaire",,
+2022,"Lettonie","Nucléaire",,
+2023,"Lettonie","Nucléaire",,
+2024,"Lettonie","Nucléaire",,
+2016,"Lettonie","Toutes les filières",2,8209300384521
+2017,"Lettonie","Toutes les filières",2,821
+2018,"Lettonie","Toutes les filières",2,841
+2019,"Lettonie","Toutes les filières",2,832
+2020,"Lettonie","Toutes les filières",2,843
+2021,"Lettonie","Toutes les filières",3,15
+2022,"Lettonie","Toutes les filières",3,171
+2023,"Lettonie","Toutes les filières",3,305
+2024,"Lettonie","Toutes les filières",3,452
+2016,"Pays-Bas","Autres",0,1
+2017,"Pays-Bas","Autres",,
+2018,"Pays-Bas","Autres",0,1
+2019,"Pays-Bas","Autres",0,1
+2020,"Pays-Bas","Autres",0,1
+2021,"Pays-Bas","Autres",0,1
+2022,"Pays-Bas","Autres",0,1
+2023,"Pays-Bas","Autres",0,1
+2024,"Pays-Bas","Autres",0,1
+2016,"Pays-Bas","Dechets",0,678
+2017,"Pays-Bas","Dechets",0,683
+2018,"Pays-Bas","Dechets",0,758
+2019,"Pays-Bas","Dechets",0,79
+2020,"Pays-Bas","Dechets",0,78
+2021,"Pays-Bas","Dechets",0,763
+2022,"Pays-Bas","Dechets",0,786
+2023,"Pays-Bas","Dechets",0,786
+2024,"Pays-Bas","Dechets",0,67
+2016,"Pays-Bas","Biogaz",,
+2017,"Pays-Bas","Biogaz",,
+2018,"Pays-Bas","Biogaz",,
+2019,"Pays-Bas","Biogaz",,
+2020,"Pays-Bas","Biogaz",,
+2021,"Pays-Bas","Biogaz",,
+2022,"Pays-Bas","Biogaz",,
+2023,"Pays-Bas","Biogaz",,
+2024,"Pays-Bas","Biogaz",,
+2016,"Pays-Bas","Biomasse",0,486
+2017,"Pays-Bas","Biomasse",0,489
+2018,"Pays-Bas","Biomasse",0,485
+2019,"Pays-Bas","Biomasse",0,49
+2020,"Pays-Bas","Biomasse",0,56
+2021,"Pays-Bas","Biomasse",0,572
+2022,"Pays-Bas","Biomasse",0,415
+2023,"Pays-Bas","Biomasse",0,415
+2024,"Pays-Bas","Biomasse",0,418
+2016,"Pays-Bas","Eolien en mer",0,957
+2017,"Pays-Bas","Eolien en mer",0,957
+2018,"Pays-Bas","Eolien en mer",0,957
+2019,"Pays-Bas","Eolien en mer",2,46
+2020,"Pays-Bas","Eolien en mer",2,46
+2021,"Pays-Bas","Eolien en mer",2,46
+2022,"Pays-Bas","Eolien en mer",3,22
+2023,"Pays-Bas","Eolien en mer",3,978
+2024,"Pays-Bas","Eolien en mer",4,739
+2016,"Pays-Bas","Eolien terrestre",3,245
+2017,"Pays-Bas","Eolien terrestre",3,675
+2018,"Pays-Bas","Eolien terrestre",3,527
+2019,"Pays-Bas","Eolien terrestre",4,188
+2020,"Pays-Bas","Eolien terrestre",5,214
+2021,"Pays-Bas","Eolien terrestre",5,31
+2022,"Pays-Bas","Eolien terrestre",6,19
+2023,"Pays-Bas","Eolien terrestre",6,812
+2024,"Pays-Bas","Eolien terrestre",6,967
+2016,"Pays-Bas","Solaire",2,911
+2017,"Pays-Bas","Solaire",2,584
+2018,"Pays-Bas","Solaire",7,226
+2019,"Pays-Bas","Solaire",11,108
+2020,"Pays-Bas","Solaire",14,823
+2021,"Pays-Bas","Solaire",14,911
+2022,"Pays-Bas","Solaire",22,59
+2023,"Pays-Bas","Solaire",24,261
+2024,"Pays-Bas","Solaire",27,259
+2016,"Pays-Bas","Hydraulique",0,37
+2017,"Pays-Bas","Hydraulique",0,38
+2018,"Pays-Bas","Hydraulique",0,37
+2019,"Pays-Bas","Hydraulique",0,37
+2020,"Pays-Bas","Hydraulique",0,38
+2021,"Pays-Bas","Hydraulique",0,38
+2022,"Pays-Bas","Hydraulique",0,37
+2023,"Pays-Bas","Hydraulique",0,38
+2024,"Pays-Bas","Hydraulique",0,38
+2016,"Pays-Bas","Fioul",,
+2017,"Pays-Bas","Fioul",,
+2018,"Pays-Bas","Fioul",,
+2019,"Pays-Bas","Fioul",,
+2020,"Pays-Bas","Fioul",,
+2021,"Pays-Bas","Fioul",,
+2022,"Pays-Bas","Fioul",,
+2023,"Pays-Bas","Fioul",,
+2024,"Pays-Bas","Fioul",,
+2016,"Pays-Bas","Gaz",19,297
+2017,"Pays-Bas","Gaz",18,433
+2018,"Pays-Bas","Gaz",15,57
+2019,"Pays-Bas","Gaz",15,496
+2020,"Pays-Bas","Gaz",18,5
+2021,"Pays-Bas","Gaz",18,53
+2022,"Pays-Bas","Gaz",18,351
+2023,"Pays-Bas","Gaz",18,351
+2024,"Pays-Bas","Gaz",18,718
+2016,"Pays-Bas","Charbon",4,608
+2017,"Pays-Bas","Charbon",4,631
+2018,"Pays-Bas","Charbon",4,631
+2019,"Pays-Bas","Charbon",4,662
+2020,"Pays-Bas","Charbon",4,12
+2021,"Pays-Bas","Charbon",4,6
+2022,"Pays-Bas","Charbon",4,6
+2023,"Pays-Bas","Charbon",4,6
+2024,"Pays-Bas","Charbon",4,12
+2016,"Pays-Bas","Nucléaire",0,486
+2017,"Pays-Bas","Nucléaire",0,486
+2018,"Pays-Bas","Nucléaire",0,486
+2019,"Pays-Bas","Nucléaire",0,485
+2020,"Pays-Bas","Nucléaire",0,485
+2021,"Pays-Bas","Nucléaire",0,486
+2022,"Pays-Bas","Nucléaire",0,486
+2023,"Pays-Bas","Nucléaire",0,486
+2024,"Pays-Bas","Nucléaire",0,486
+2016,"Pays-Bas","Toutes les filières",32,706
+2017,"Pays-Bas","Toutes les filières",31,976
+2018,"Pays-Bas","Toutes les filières",33,678
+2019,"Pays-Bas","Toutes les filières",39,717
+2020,"Pays-Bas","Toutes les filières",46,873
+2021,"Pays-Bas","Toutes les filières",47,77
+2022,"Pays-Bas","Toutes les filières",56,82
+2023,"Pays-Bas","Toutes les filières",59,134
+2024,"Pays-Bas","Toutes les filières",63,308
+2016,"Norvège","Autres",,
+2017,"Norvège","Autres",,
+2018,"Norvège","Autres",,
+2019,"Norvège","Autres",,
+2020,"Norvège","Autres",0,13073999977112
+2021,"Norvège","Autres",0,13073999977112
+2022,"Norvège","Autres",0,13073999977112
+2023,"Norvège","Autres",0,13073999977112
+2024,"Norvège","Autres",0,13070000076294
+2016,"Norvège","Dechets",,
+2017,"Norvège","Dechets",,
+2018,"Norvège","Dechets",,
+2019,"Norvège","Dechets",,
+2020,"Norvège","Dechets",0,89819999694824
+2021,"Norvège","Dechets",0,89819999694824
+2022,"Norvège","Dechets",0,89819999694824
+2023,"Norvège","Dechets",0,91959999084473
+2024,"Norvège","Dechets",0,92599998474121
+2016,"Norvège","Biogaz",,
+2017,"Norvège","Biogaz",,
+2018,"Norvège","Biogaz",,
+2019,"Norvège","Biogaz",,
+2020,"Norvège","Biogaz",,
+2021,"Norvège","Biogaz",,
+2022,"Norvège","Biogaz",,
+2023,"Norvège","Biogaz",,
+2024,"Norvège","Biogaz",,
+2016,"Norvège","Biomasse",,
+2017,"Norvège","Biomasse",,
+2018,"Norvège","Biomasse",,
+2019,"Norvège","Biomasse",,
+2020,"Norvège","Biomasse",0,18799999952316
+2021,"Norvège","Biomasse",0,18799999952316
+2022,"Norvège","Biomasse",0,18799999952316
+2023,"Norvège","Biomasse",0,14380000114441
+2024,"Norvège","Biomasse",0,1439999961853
+2016,"Norvège","Eolien en mer",,
+2017,"Norvège","Eolien en mer",,
+2018,"Norvège","Eolien en mer",,
+2019,"Norvège","Eolien en mer",,
+2020,"Norvège","Eolien en mer",,
+2021,"Norvège","Eolien en mer",,
+2022,"Norvège","Eolien en mer",,
+2023,"Norvège","Eolien en mer",,
+2024,"Norvège","Eolien en mer",0,59000000953674
+2016,"Norvège","Eolien terrestre",0,90359997558594
+2017,"Norvège","Eolien terrestre",1,2318499755859
+2018,"Norvège","Eolien terrestre",2,2618000488281
+2019,"Norvège","Eolien terrestre",3,8655
+2020,"Norvège","Eolien terrestre",5,1052001953125
+2021,"Norvège","Eolien terrestre",5,1052001953125
+2022,"Norvège","Eolien terrestre",5,1297998046875
+2023,"Norvège","Eolien terrestre",5,133
+2024,"Norvège","Eolien terrestre",5,1327001953125
+2016,"Norvège","Solaire",,
+2017,"Norvège","Solaire",,
+2018,"Norvège","Solaire",,
+2019,"Norvège","Solaire",,
+2020,"Norvège","Solaire",,
+2021,"Norvège","Solaire",,
+2022,"Norvège","Solaire",,
+2023,"Norvège","Solaire",0,90699996948242
+2024,"Norvège","Solaire",0,16700000762939
+2016,"Norvège","Hydraulique",31,95270263672
+2017,"Norvège","Hydraulique",32,930800048828
+2018,"Norvège","Hydraulique",33,440699462891
+2019,"Norvège","Hydraulique",33,812160888672
+2020,"Norvège","Hydraulique",34,424861083984
+2021,"Norvège","Hydraulique",34,424861083984
+2022,"Norvège","Hydraulique",34,468059814453
+2023,"Norvège","Hydraulique",34,600350341797
+2024,"Norvège","Hydraulique",35,6500732422
+2016,"Norvège","Fioul",,
+2017,"Norvège","Fioul",,
+2018,"Norvège","Fioul",,
+2019,"Norvège","Fioul",,
+2020,"Norvège","Fioul",,
+2021,"Norvège","Fioul",,
+2022,"Norvège","Fioul",,
+2023,"Norvège","Fioul",,
+2024,"Norvège","Fioul",,
+2016,"Norvège","Gaz",0,61070001220703
+2017,"Norvège","Gaz",0,63459997558594
+2018,"Norvège","Gaz",0,63459997558594
+2019,"Norvège","Gaz",0,64170001220703
+2020,"Norvège","Gaz",0,63894000244141
+2021,"Norvège","Gaz",0,63894000244141
+2022,"Norvège","Gaz",0,45894000244141
+2023,"Norvège","Gaz",0,47294000244141
+2024,"Norvège","Gaz",0,47820001220703
+2016,"Norvège","Charbon",,
+2017,"Norvège","Charbon",,
+2018,"Norvège","Charbon",,
+2019,"Norvège","Charbon",,
+2020,"Norvège","Charbon",,
+2021,"Norvège","Charbon",,
+2022,"Norvège","Charbon",,
+2023,"Norvège","Charbon",,
+2024,"Norvège","Charbon",,
+2016,"Norvège","Nucléaire",,
+2017,"Norvège","Nucléaire",,
+2018,"Norvège","Nucléaire",,
+2019,"Norvège","Nucléaire",,
+2020,"Norvège","Nucléaire",,
+2021,"Norvège","Nucléaire",,
+2022,"Norvège","Nucléaire",,
+2023,"Norvège","Nucléaire",,
+2024,"Norvège","Nucléaire",,
+2016,"Norvège","Toutes les filières",32,609570251465
+2017,"Norvège","Toutes les filières",34,79725
+2018,"Norvège","Toutes les filières",36,337099487305
+2019,"Norvège","Toutes les filières",38,319360900879
+2020,"Norvège","Toutes les filières",40,391441281199
+2021,"Norvège","Toutes les filières",40,391441281199
+2022,"Norvège","Toutes les filières",40,279239621043
+2023,"Norvège","Toutes les filières",40,452440342903
+2024,"Norvège","Toutes les filières",40,877700939655
+2016,"Pologne","Autres",,
+2017,"Pologne","Autres",,
+2018,"Pologne","Autres",,
+2019,"Pologne","Autres",,
+2020,"Pologne","Autres",,
+2021,"Pologne","Autres",1,52425
+2022,"Pologne","Autres",1,5196700439453
+2023,"Pologne","Autres",1,6427600097656
+2024,"Pologne","Autres",1,8037299804688
+2016,"Pologne","Dechets",,
+2017,"Pologne","Dechets",,
+2018,"Pologne","Dechets",,
+2019,"Pologne","Dechets",,
+2020,"Pologne","Dechets",,
+2021,"Pologne","Dechets",,
+2022,"Pologne","Dechets",,
+2023,"Pologne","Dechets",,
+2024,"Pologne","Dechets",,
+2016,"Pologne","Biogaz",,
+2017,"Pologne","Biogaz",,
+2018,"Pologne","Biogaz",,
+2019,"Pologne","Biogaz",,
+2020,"Pologne","Biogaz",,
+2021,"Pologne","Biogaz",,
+2022,"Pologne","Biogaz",,
+2023,"Pologne","Biogaz",,
+2024,"Pologne","Biogaz",,
+2016,"Pologne","Biomasse",0,50057998657227
+2017,"Pologne","Biomasse",0,60251000976562
+2018,"Pologne","Biomasse",0,84938000488281
+2019,"Pologne","Biomasse",0,88015002441406
+2020,"Pologne","Biomasse",0,87990997314453
+2021,"Pologne","Biomasse",0,64669000244141
+2022,"Pologne","Biomasse",0,66359997558594
+2023,"Pologne","Biomasse",0,66229998779297
+2024,"Pologne","Biomasse",0,63639001464844
+2016,"Pologne","Eolien en mer",,
+2017,"Pologne","Eolien en mer",,
+2018,"Pologne","Eolien en mer",,
+2019,"Pologne","Eolien en mer",,
+2020,"Pologne","Eolien en mer",,
+2021,"Pologne","Eolien en mer",,
+2022,"Pologne","Eolien en mer",,
+2023,"Pologne","Eolien en mer",,
+2024,"Pologne","Eolien en mer",,
+2016,"Pologne","Eolien terrestre",6,260600585938
+2017,"Pologne","Eolien terrestre",5,7913198242187
+2018,"Pologne","Eolien terrestre",5,807669921875
+2019,"Pologne","Eolien terrestre",5,95333984375
+2020,"Pologne","Eolien terrestre",6,5702700195313
+2021,"Pologne","Eolien terrestre",7,9502099609375
+2022,"Pologne","Eolien terrestre",8,97773046875
+2023,"Pologne","Eolien terrestre",9,5829296875
+2024,"Pologne","Eolien terrestre",10,292559570313
+2016,"Pologne","Solaire",0,18655000305176
+2017,"Pologne","Solaire",0,23102000427246
+2018,"Pologne","Solaire",0,43013000488281
+2019,"Pologne","Solaire",1,3098199462891
+2020,"Pologne","Solaire",3,4727800292969
+2021,"Pologne","Solaire",6,664080078125
+2022,"Pologne","Solaire",10,643200195313
+2023,"Pologne","Solaire",14,608700195313
+2024,"Pologne","Solaire",17,705359375
+2016,"Pologne","Hydraulique",2,3221899871826
+2017,"Pologne","Hydraulique",2,3924900054932
+2018,"Pologne","Hydraulique",2,3719600067139
+2019,"Pologne","Hydraulique",2,3848000030518
+2020,"Pologne","Hydraulique",2,3976399993896
+2021,"Pologne","Hydraulique",2,3764799499512
+2022,"Pologne","Hydraulique",2,3827899780273
+2023,"Pologne","Hydraulique",2,3773000488281
+2024,"Pologne","Hydraulique",2,314690032959
+2016,"Pologne","Fioul",0,345
+2017,"Pologne","Fioul",0,415
+2018,"Pologne","Fioul",0,415
+2019,"Pologne","Fioul",0,35891000366211
+2020,"Pologne","Fioul",0,35891000366211
+2021,"Pologne","Fioul",0,39254000854492
+2022,"Pologne","Fioul",0,39254000854492
+2023,"Pologne","Fioul",0,39254000854492
+2024,"Pologne","Fioul",0,39254000854492
+2016,"Pologne","Gaz",1,5958699951172
+2017,"Pologne","Gaz",2,2978701171875
+2018,"Pologne","Gaz",2,3779300842285
+2019,"Pologne","Gaz",2,8115199279785
+2020,"Pologne","Gaz",2,8269300842285
+2021,"Pologne","Gaz",4,915899047852
+2022,"Pologne","Gaz",4,676600952148
+2023,"Pologne","Gaz",5,4359898681641
+2024,"Pologne","Gaz",5,7245802001953
+2016,"Pologne","Charbon",26,307890625
+2017,"Pologne","Charbon",28,635399414063
+2018,"Pologne","Charbon",30,274520507813
+2019,"Pologne","Charbon",29,96276953125
+2020,"Pologne","Charbon",28,521469238281
+2021,"Pologne","Charbon",26,632849121094
+2022,"Pologne","Charbon",26,567880371094
+2023,"Pologne","Charbon",26,387509765625
+2024,"Pologne","Charbon",25,482869140625
+2016,"Pologne","Nucléaire",,
+2017,"Pologne","Nucléaire",,
+2018,"Pologne","Nucléaire",,
+2019,"Pologne","Nucléaire",,
+2020,"Pologne","Nucléaire",,
+2021,"Pologne","Nucléaire",,
+2022,"Pologne","Nucléaire",,
+2023,"Pologne","Nucléaire",,
+2024,"Pologne","Nucléaire",,
+2016,"Pologne","Toutes les filières",37,284140655518
+2017,"Pologne","Toutes les filières",40,365609375
+2018,"Pologne","Toutes les filières",42,526590530396
+2019,"Pologne","Toutes les filières",43,661309280396
+2020,"Pologne","Toutes les filières",45,27909347534
+2021,"Pologne","Toutes les filières",50,278689025879
+2022,"Pologne","Toutes les filières",55,215071136475
+2023,"Pologne","Toutes les filières",61,90029571533
+2024,"Pologne","Toutes les filières",64,352718322754
+2016,"Portugal","Autres",0,6
+2017,"Portugal","Autres",0,4
+2018,"Portugal","Autres",0,36200000762939
+2019,"Portugal","Autres",0,8
+2020,"Portugal","Autres",0,28
+2021,"Portugal","Autres",0,28
+2022,"Portugal","Autres",0,28
+2023,"Portugal","Autres",0,28
+2024,"Portugal","Autres",0,28
+2016,"Portugal","Dechets",,
+2017,"Portugal","Dechets",,
+2018,"Portugal","Dechets",,
+2019,"Portugal","Dechets",,
+2020,"Portugal","Dechets",,
+2021,"Portugal","Dechets",,
+2022,"Portugal","Dechets",,
+2023,"Portugal","Dechets",,
+2024,"Portugal","Dechets",,
+2016,"Portugal","Biogaz",,
+2017,"Portugal","Biogaz",,
+2018,"Portugal","Biogaz",,
+2019,"Portugal","Biogaz",,
+2020,"Portugal","Biogaz",,
+2021,"Portugal","Biogaz",,
+2022,"Portugal","Biogaz",,
+2023,"Portugal","Biogaz",,
+2024,"Portugal","Biogaz",,
+2016,"Portugal","Biomasse",0,598
+2017,"Portugal","Biomasse",0,59390002441406
+2018,"Portugal","Biomasse",0,60479998779297
+2019,"Portugal","Biomasse",0,67879998779297
+2020,"Portugal","Biomasse",0,68409997558594
+2021,"Portugal","Biomasse",0,681
+2022,"Portugal","Biomasse",0,647
+2023,"Portugal","Biomasse",0,681
+2024,"Portugal","Biomasse",0,68709997558594
+2016,"Portugal","Eolien en mer",,
+2017,"Portugal","Eolien en mer",,
+2018,"Portugal","Eolien en mer",,
+2019,"Portugal","Eolien en mer",,
+2020,"Portugal","Eolien en mer",0,25
+2021,"Portugal","Eolien en mer",0,25
+2022,"Portugal","Eolien en mer",0,25
+2023,"Portugal","Eolien en mer",0,25
+2024,"Portugal","Eolien en mer",0,25
+2016,"Portugal","Eolien terrestre",5,28
+2017,"Portugal","Eolien terrestre",5,727998046875
+2018,"Portugal","Eolien terrestre",5,1266000976563
+2019,"Portugal","Eolien terrestre",5,1807998046875
+2020,"Portugal","Eolien terrestre",5,1833999023438
+2021,"Portugal","Eolien terrestre",5,328
+2022,"Portugal","Eolien terrestre",5,3283999023438
+2023,"Portugal","Eolien terrestre",5,3327998046875
+2024,"Portugal","Eolien terrestre",5,3661000976563
+2016,"Portugal","Solaire",0,26120001220703
+2017,"Portugal","Solaire",0,27210000610352
+2018,"Portugal","Solaire",0,3235
+2019,"Portugal","Solaire",0,41339999389648
+2020,"Portugal","Solaire",0,56920001220703
+2021,"Portugal","Solaire",1,319000244141
+2022,"Portugal","Solaire",1,3323000488281
+2023,"Portugal","Solaire",1,8108000488281
+2024,"Portugal","Solaire",2,5886000976563
+2016,"Portugal","Hydraulique",6,9184001464844
+2017,"Portugal","Hydraulique",7,1696000976563
+2018,"Portugal","Hydraulique",7,1929001464844
+2019,"Portugal","Hydraulique",7,1929001464844
+2020,"Portugal","Hydraulique",7,1921000976563
+2021,"Portugal","Hydraulique",7,1990998535156
+2022,"Portugal","Hydraulique",8,1971998291016
+2023,"Portugal","Hydraulique",8,1918999023437
+2024,"Portugal","Hydraulique",8,3518999023437
+2016,"Portugal","Fioul",,
+2017,"Portugal","Fioul",,
+2018,"Portugal","Fioul",,
+2019,"Portugal","Fioul",,
+2020,"Portugal","Fioul",,
+2021,"Portugal","Fioul",,
+2022,"Portugal","Fioul",,
+2023,"Portugal","Fioul",,
+2024,"Portugal","Fioul",,
+2016,"Portugal","Gaz",4,6571000976562
+2017,"Portugal","Gaz",4,6207001953125
+2018,"Portugal","Gaz",4,606
+2019,"Portugal","Gaz",4,6062001953125
+2020,"Portugal","Gaz",4,5848999023438
+2021,"Portugal","Gaz",4,5195
+2022,"Portugal","Gaz",4,5846000976563
+2023,"Portugal","Gaz",4,4327001953125
+2024,"Portugal","Gaz",4,4186000976562
+2016,"Portugal","Charbon",1,756
+2017,"Portugal","Charbon",1,756
+2018,"Portugal","Charbon",1,756
+2019,"Portugal","Charbon",1,756
+2020,"Portugal","Charbon",1,756
+2021,"Portugal","Charbon",,
+2022,"Portugal","Charbon",,
+2023,"Portugal","Charbon",,
+2024,"Portugal","Charbon",,
+2016,"Portugal","Nucléaire",,
+2017,"Portugal","Nucléaire",,
+2018,"Portugal","Nucléaire",,
+2019,"Portugal","Nucléaire",,
+2020,"Portugal","Nucléaire",,
+2021,"Portugal","Nucléaire",,
+2022,"Portugal","Nucléaire",,
+2023,"Portugal","Nucléaire",,
+2024,"Portugal","Nucléaire",,
+2016,"Portugal","Toutes les filières",19,278700256348
+2017,"Portugal","Toutes les filières",19,525100128174
+2018,"Portugal","Toutes les filières",19,646000232697
+2019,"Portugal","Toutes les filières",19,836100128174
+2020,"Portugal","Toutes les filières",20,22699890137
+2021,"Portugal","Toutes les filières",18,81249987793
+2022,"Portugal","Toutes les filières",20,14249987793
+2023,"Portugal","Toutes les filières",20,502199951172
+2024,"Portugal","Toutes les filières",21,465300170898
+2016,"Roumanie","Autres",,
+2017,"Roumanie","Autres",,
+2018,"Roumanie","Autres",,
+2019,"Roumanie","Autres",,
+2020,"Roumanie","Autres",,
+2021,"Roumanie","Autres",,
+2022,"Roumanie","Autres",,
+2023,"Roumanie","Autres",,
+2024,"Roumanie","Autres",,
+2016,"Roumanie","Dechets",,
+2017,"Roumanie","Dechets",,
+2018,"Roumanie","Dechets",,
+2019,"Roumanie","Dechets",,
+2020,"Roumanie","Dechets",,
+2021,"Roumanie","Dechets",,
+2022,"Roumanie","Dechets",,
+2023,"Roumanie","Dechets",,
+2024,"Roumanie","Dechets",,
+2016,"Roumanie","Biogaz",,
+2017,"Roumanie","Biogaz",,
+2018,"Roumanie","Biogaz",,
+2019,"Roumanie","Biogaz",,
+2020,"Roumanie","Biogaz",,
+2021,"Roumanie","Biogaz",,
+2022,"Roumanie","Biogaz",,
+2023,"Roumanie","Biogaz",,
+2024,"Roumanie","Biogaz",,
+2016,"Roumanie","Biomasse",0,115
+2017,"Roumanie","Biomasse",0,116
+2018,"Roumanie","Biomasse",0,115
+2019,"Roumanie","Biomasse",0,117
+2020,"Roumanie","Biomasse",0,117
+2021,"Roumanie","Biomasse",0,116
+2022,"Roumanie","Biomasse",0,118
+2023,"Roumanie","Biomasse",0,118
+2024,"Roumanie","Biomasse",0,119
+2016,"Roumanie","Eolien en mer",,
+2017,"Roumanie","Eolien en mer",,
+2018,"Roumanie","Eolien en mer",,
+2019,"Roumanie","Eolien en mer",,
+2020,"Roumanie","Eolien en mer",,
+2021,"Roumanie","Eolien en mer",,
+2022,"Roumanie","Eolien en mer",,
+2023,"Roumanie","Eolien en mer",,
+2024,"Roumanie","Eolien en mer",,
+2016,"Roumanie","Eolien terrestre",2,985
+2017,"Roumanie","Eolien terrestre",2,987
+2018,"Roumanie","Eolien terrestre",2,968
+2019,"Roumanie","Eolien terrestre",2,972
+2020,"Roumanie","Eolien terrestre",2,957
+2021,"Roumanie","Eolien terrestre",2,957
+2022,"Roumanie","Eolien terrestre",2,957
+2023,"Roumanie","Eolien terrestre",2,958
+2024,"Roumanie","Eolien terrestre",3,27
+2016,"Roumanie","Solaire",1,21
+2017,"Roumanie","Solaire",1,211
+2018,"Roumanie","Solaire",1,15
+2019,"Roumanie","Solaire",1,163
+2020,"Roumanie","Solaire",1,145
+2021,"Roumanie","Solaire",1,16
+2022,"Roumanie","Solaire",1,185
+2023,"Roumanie","Solaire",1,293
+2024,"Roumanie","Solaire",1,588
+2016,"Roumanie","Hydraulique",6,481
+2017,"Roumanie","Hydraulique",6,49
+2018,"Roumanie","Hydraulique",6,143
+2019,"Roumanie","Hydraulique",6,14
+2020,"Roumanie","Hydraulique",6,134
+2021,"Roumanie","Hydraulique",6,137
+2022,"Roumanie","Hydraulique",6,136
+2023,"Roumanie","Hydraulique",6,139
+2024,"Roumanie","Hydraulique",6,132
+2016,"Roumanie","Fioul",,
+2017,"Roumanie","Fioul",,
+2018,"Roumanie","Fioul",,
+2019,"Roumanie","Fioul",,
+2020,"Roumanie","Fioul",,
+2021,"Roumanie","Fioul",,
+2022,"Roumanie","Fioul",,
+2023,"Roumanie","Fioul",,
+2024,"Roumanie","Fioul",,
+2016,"Roumanie","Gaz",5,2
+2017,"Roumanie","Gaz",5,142
+2018,"Roumanie","Gaz",3,33
+2019,"Roumanie","Gaz",2,666
+2020,"Roumanie","Gaz",2,184
+2021,"Roumanie","Gaz",2,218
+2022,"Roumanie","Gaz",1,988
+2023,"Roumanie","Gaz",2,238
+2024,"Roumanie","Gaz",2,179
+2016,"Roumanie","Charbon",5,854
+2017,"Roumanie","Charbon",5,805
+2018,"Roumanie","Charbon",4,128
+2019,"Roumanie","Charbon",4,103
+2020,"Roumanie","Charbon",3,469
+2021,"Roumanie","Charbon",2,673
+2022,"Roumanie","Charbon",2,673
+2023,"Roumanie","Charbon",1,909
+2024,"Roumanie","Charbon",2,162
+2016,"Roumanie","Nucléaire",1,3
+2017,"Roumanie","Nucléaire",1,3
+2018,"Roumanie","Nucléaire",1,3
+2019,"Roumanie","Nucléaire",1,3
+2020,"Roumanie","Nucléaire",1,3
+2021,"Roumanie","Nucléaire",1,3
+2022,"Roumanie","Nucléaire",1,3
+2023,"Roumanie","Nucléaire",1,3
+2024,"Roumanie","Nucléaire",1,3
+2016,"Roumanie","Toutes les filières",22,965
+2017,"Roumanie","Toutes les filières",23,51
+2018,"Roumanie","Toutes les filières",18,837
+2019,"Roumanie","Toutes les filières",18,461
+2020,"Roumanie","Toutes les filières",17,306
+2021,"Roumanie","Toutes les filières",16,561
+2022,"Roumanie","Toutes les filières",16,357
+2023,"Roumanie","Toutes les filières",15,955
+2024,"Roumanie","Toutes les filières",16,507
+2016,"Suède","Autres",8,35
+2017,"Suède","Autres",7,87
+2018,"Suède","Autres",8,439
+2019,"Suède","Autres",8,827
+2020,"Suède","Autres",7,977
+2021,"Suède","Autres",8,4
+2022,"Suède","Autres",9,
+2023,"Suède","Autres",6,6
+2024,"Suède","Autres",6,7
+2016,"Suède","Dechets",,
+2017,"Suède","Dechets",,
+2018,"Suède","Dechets",,
+2019,"Suède","Dechets",,
+2020,"Suède","Dechets",,
+2021,"Suède","Dechets",,
+2022,"Suède","Dechets",,
+2023,"Suède","Dechets",,
+2024,"Suède","Dechets",,
+2016,"Suède","Biogaz",,
+2017,"Suède","Biogaz",,
+2018,"Suède","Biogaz",,
+2019,"Suède","Biogaz",,
+2020,"Suède","Biogaz",,
+2021,"Suède","Biogaz",,
+2022,"Suède","Biogaz",,
+2023,"Suède","Biogaz",,
+2024,"Suède","Biogaz",,
+2016,"Suède","Biomasse",,
+2017,"Suède","Biomasse",,
+2018,"Suède","Biomasse",,
+2019,"Suède","Biomasse",,
+2020,"Suède","Biomasse",,
+2021,"Suède","Biomasse",,
+2022,"Suède","Biomasse",,
+2023,"Suède","Biomasse",,
+2024,"Suède","Biomasse",,
+2016,"Suède","Eolien en mer",,
+2017,"Suède","Eolien en mer",,
+2018,"Suède","Eolien en mer",,
+2019,"Suède","Eolien en mer",,
+2020,"Suède","Eolien en mer",,
+2021,"Suède","Eolien en mer",,
+2022,"Suède","Eolien en mer",,
+2023,"Suède","Eolien en mer",,
+2024,"Suède","Eolien en mer",,
+2016,"Suède","Eolien terrestre",5,96
+2017,"Suède","Eolien terrestre",6,247
+2018,"Suède","Eolien terrestre",7,506
+2019,"Suède","Eolien terrestre",9,648
+2020,"Suède","Eolien terrestre",10,17
+2021,"Suède","Eolien terrestre",12,1
+2022,"Suède","Eolien terrestre",14,7
+2023,"Suède","Eolien terrestre",16,7
+2024,"Suède","Eolien terrestre",18,
+2016,"Suède","Solaire",,
+2017,"Suède","Solaire",,
+2018,"Suède","Solaire",,
+2019,"Suède","Solaire",,
+2020,"Suède","Solaire",,
+2021,"Suède","Solaire",,
+2022,"Suède","Solaire",,
+2023,"Suède","Solaire",3,2
+2024,"Suède","Solaire",5,
+2016,"Suède","Hydraulique",15,945
+2017,"Suède","Hydraulique",15,949
+2018,"Suède","Hydraulique",16,301
+2019,"Suède","Hydraulique",16,318
+2020,"Suède","Hydraulique",16,334
+2021,"Suède","Hydraulique",16,3
+2022,"Suède","Hydraulique",16,3
+2023,"Suède","Hydraulique",16,3
+2024,"Suède","Hydraulique",16,4
+2016,"Suède","Fioul",,
+2017,"Suède","Fioul",,
+2018,"Suède","Fioul",,
+2019,"Suède","Fioul",,
+2020,"Suède","Fioul",,
+2021,"Suède","Fioul",,
+2022,"Suède","Fioul",,
+2023,"Suède","Fioul",,
+2024,"Suède","Fioul",,
+2016,"Suède","Gaz",,
+2017,"Suède","Gaz",,
+2018,"Suède","Gaz",,
+2019,"Suède","Gaz",,
+2020,"Suède","Gaz",,
+2021,"Suède","Gaz",,
+2022,"Suède","Gaz",,
+2023,"Suède","Gaz",,
+2024,"Suède","Gaz",,
+2016,"Suède","Charbon",,
+2017,"Suède","Charbon",,
+2018,"Suède","Charbon",,
+2019,"Suède","Charbon",,
+2020,"Suède","Charbon",,
+2021,"Suède","Charbon",,
+2022,"Suède","Charbon",,
+2023,"Suède","Charbon",,
+2024,"Suède","Charbon",,
+2016,"Suède","Nucléaire",9,76
+2017,"Suède","Nucléaire",8,603
+2018,"Suède","Nucléaire",8,586
+2019,"Suède","Nucléaire",7,71
+2020,"Suède","Nucléaire",6,871
+2021,"Suède","Nucléaire",6,9
+2022,"Suède","Nucléaire",6,9
+2023,"Suède","Nucléaire",6,9
+2024,"Suède","Nucléaire",6,9
+2016,"Suède","Toutes les filières",39,16
+2017,"Suède","Toutes les filières",38,669
+2018,"Suède","Toutes les filières",40,832
+2019,"Suède","Toutes les filières",42,503
+2020,"Suède","Toutes les filières",41,199
+2021,"Suède","Toutes les filières",43,7
+2022,"Suède","Toutes les filières",46,9
+2023,"Suède","Toutes les filières",49,7
+2024,"Suède","Toutes les filières",53,
+2016,"Slovénie","Autres",,
+2017,"Slovénie","Autres",0,1
+2018,"Slovénie","Autres",0,1
+2019,"Slovénie","Autres",,
+2020,"Slovénie","Autres",,
+2021,"Slovénie","Autres",,
+2022,"Slovénie","Autres",,
+2023,"Slovénie","Autres",,
+2024,"Slovénie","Autres",,
+2016,"Slovénie","Dechets",0,4
+2017,"Slovénie","Dechets",0,4
+2018,"Slovénie","Dechets",0,4
+2019,"Slovénie","Dechets",0,38439998626709
+2020,"Slovénie","Dechets",0,44000000953674
+2021,"Slovénie","Dechets",0,44000000953674
+2022,"Slovénie","Dechets",0,33139999389648
+2023,"Slovénie","Dechets",0,63099999427795
+2024,"Slovénie","Dechets",0,63800001144409
+2016,"Slovénie","Biogaz",,
+2017,"Slovénie","Biogaz",,
+2018,"Slovénie","Biogaz",,
+2019,"Slovénie","Biogaz",,
+2020,"Slovénie","Biogaz",,
+2021,"Slovénie","Biogaz",,
+2022,"Slovénie","Biogaz",,
+2023,"Slovénie","Biogaz",,
+2024,"Slovénie","Biogaz",,
+2016,"Slovénie","Biomasse",0,17
+2017,"Slovénie","Biomasse",0,17
+2018,"Slovénie","Biomasse",0,17
+2019,"Slovénie","Biomasse",0,22860000610352
+2020,"Slovénie","Biomasse",0,15800000190735
+2021,"Slovénie","Biomasse",0,15800000190735
+2022,"Slovénie","Biomasse",0,14289999961853
+2023,"Slovénie","Biomasse",0,43389999389648
+2024,"Slovénie","Biomasse",0,32630001068115
+2016,"Slovénie","Eolien en mer",,
+2017,"Slovénie","Eolien en mer",,
+2018,"Slovénie","Eolien en mer",,
+2019,"Slovénie","Eolien en mer",,
+2020,"Slovénie","Eolien en mer",,
+2021,"Slovénie","Eolien en mer",,
+2022,"Slovénie","Eolien en mer",,
+2023,"Slovénie","Eolien en mer",,
+2024,"Slovénie","Eolien en mer",,
+2016,"Slovénie","Eolien terrestre",0,3
+2017,"Slovénie","Eolien terrestre",0,3
+2018,"Slovénie","Eolien terrestre",0,3
+2019,"Slovénie","Eolien terrestre",0,33099999427795
+2020,"Slovénie","Eolien terrestre",0,3289999961853
+2021,"Slovénie","Eolien terrestre",0,32999999523163
+2022,"Slovénie","Eolien terrestre",0,23900001049042
+2023,"Slovénie","Eolien terrestre",0,325
+2024,"Slovénie","Eolien terrestre",0,325
+2016,"Slovénie","Solaire",0,266
+2017,"Slovénie","Solaire",0,27533999633789
+2018,"Slovénie","Solaire",0,27533999633789
+2019,"Slovénie","Solaire",0,27761999511719
+2020,"Slovénie","Solaire",0,459
+2021,"Slovénie","Solaire",0,459
+2022,"Slovénie","Solaire",0,70240002441406
+2023,"Slovénie","Solaire",1,1095300292969
+2024,"Slovénie","Solaire",1,4114599609375
+2016,"Slovénie","Hydraulique",1,233
+2017,"Slovénie","Hydraulique",1,233
+2018,"Slovénie","Hydraulique",1,233
+2019,"Slovénie","Hydraulique",1,2905799560547
+2020,"Slovénie","Hydraulique",1,305
+2021,"Slovénie","Hydraulique",1,305
+2022,"Slovénie","Hydraulique",1,3089399414062
+2023,"Slovénie","Hydraulique",1,3052399902344
+2024,"Slovénie","Hydraulique",1,3255400390625
+2016,"Slovénie","Fioul",0,58
+2017,"Slovénie","Fioul",0,58
+2018,"Slovénie","Fioul",0,58
+2019,"Slovénie","Fioul",0,58
+2020,"Slovénie","Fioul",,
+2021,"Slovénie","Fioul",,
+2022,"Slovénie","Fioul",0,58
+2023,"Slovénie","Fioul",0,58
+2024,"Slovénie","Fioul",0,58
+2016,"Slovénie","Gaz",0,491
+2017,"Slovénie","Gaz",0,491
+2018,"Slovénie","Gaz",0,491
+2019,"Slovénie","Gaz",0,54576000976562
+2020,"Slovénie","Gaz",0,54836999511719
+2021,"Slovénie","Gaz",0,548
+2022,"Slovénie","Gaz",0,61802001953125
+2023,"Slovénie","Gaz",0,75603997802734
+2024,"Slovénie","Gaz",0,76440002441406
+2016,"Slovénie","Charbon",0,924
+2017,"Slovénie","Charbon",0,924
+2018,"Slovénie","Charbon",0,924
+2019,"Slovénie","Charbon",0,967
+2020,"Slovénie","Charbon",0,981
+2021,"Slovénie","Charbon",0,981
+2022,"Slovénie","Charbon",1,1905
+2023,"Slovénie","Charbon",1,1905
+2024,"Slovénie","Charbon",1,1905
+2016,"Slovénie","Nucléaire",0,696
+2017,"Slovénie","Nucléaire",0,696
+2018,"Slovénie","Nucléaire",0,696
+2019,"Slovénie","Nucléaire",0,696
+2020,"Slovénie","Nucléaire",0,696
+2021,"Slovénie","Nucléaire",0,696
+2022,"Slovénie","Nucléaire",0,696
+2023,"Slovénie","Nucléaire",0,696
+2024,"Slovénie","Nucléaire",0,7
+2016,"Slovénie","Toutes les filières",3,728
+2017,"Slovénie","Toutes les filières",3,7383399963379
+2018,"Slovénie","Toutes les filières",3,7383399963379
+2019,"Slovénie","Toutes les filières",3,8995699601173
+2020,"Slovénie","Toutes les filières",4,128599953651
+2021,"Slovénie","Toutes les filières",4,125000002384
+2022,"Slovénie","Toutes les filières",4,623679984808
+2023,"Slovénie","Toutes les filières",5,168259996891
+2024,"Slovénie","Toutes les filières",5,4921600255966
+2016,"Slovaquie","Autres",0,567
+2017,"Slovaquie","Autres",0,554
+2018,"Slovaquie","Autres",0,534
+2019,"Slovaquie","Autres",0,756
+2020,"Slovaquie","Autres",0,742
+2021,"Slovaquie","Autres",,
+2022,"Slovaquie","Autres",,
+2023,"Slovaquie","Autres",,
+2024,"Slovaquie","Autres",,
+2016,"Slovaquie","Dechets",,
+2017,"Slovaquie","Dechets",,
+2018,"Slovaquie","Dechets",,
+2019,"Slovaquie","Dechets",,
+2020,"Slovaquie","Dechets",,
+2021,"Slovaquie","Dechets",,
+2022,"Slovaquie","Dechets",,
+2023,"Slovaquie","Dechets",,
+2024,"Slovaquie","Dechets",,
+2016,"Slovaquie","Biogaz",,
+2017,"Slovaquie","Biogaz",,
+2018,"Slovaquie","Biogaz",,
+2019,"Slovaquie","Biogaz",,
+2020,"Slovaquie","Biogaz",,
+2021,"Slovaquie","Biogaz",,
+2022,"Slovaquie","Biogaz",,
+2023,"Slovaquie","Biogaz",,
+2024,"Slovaquie","Biogaz",,
+2016,"Slovaquie","Biomasse",0,225
+2017,"Slovaquie","Biomasse",0,224
+2018,"Slovaquie","Biomasse",0,214
+2019,"Slovaquie","Biomasse",0,224
+2020,"Slovaquie","Biomasse",0,234
+2021,"Slovaquie","Biomasse",,
+2022,"Slovaquie","Biomasse",,
+2023,"Slovaquie","Biomasse",,
+2024,"Slovaquie","Biomasse",,
+2016,"Slovaquie","Eolien en mer",,
+2017,"Slovaquie","Eolien en mer",,
+2018,"Slovaquie","Eolien en mer",,
+2019,"Slovaquie","Eolien en mer",,
+2020,"Slovaquie","Eolien en mer",,
+2021,"Slovaquie","Eolien en mer",,
+2022,"Slovaquie","Eolien en mer",,
+2023,"Slovaquie","Eolien en mer",,
+2024,"Slovaquie","Eolien en mer",,
+2016,"Slovaquie","Eolien terrestre",0,3
+2017,"Slovaquie","Eolien terrestre",0,3
+2018,"Slovaquie","Eolien terrestre",0,3
+2019,"Slovaquie","Eolien terrestre",0,3
+2020,"Slovaquie","Eolien terrestre",0,3
+2021,"Slovaquie","Eolien terrestre",,
+2022,"Slovaquie","Eolien terrestre",,
+2023,"Slovaquie","Eolien terrestre",,
+2024,"Slovaquie","Eolien terrestre",,
+2016,"Slovaquie","Solaire",0,53
+2017,"Slovaquie","Solaire",0,531
+2018,"Slovaquie","Solaire",0,531
+2019,"Slovaquie","Solaire",0,531
+2020,"Slovaquie","Solaire",0,532
+2021,"Slovaquie","Solaire",,
+2022,"Slovaquie","Solaire",,
+2023,"Slovaquie","Solaire",,
+2024,"Slovaquie","Solaire",,
+2016,"Slovaquie","Hydraulique",2,539
+2017,"Slovaquie","Hydraulique",2,542
+2018,"Slovaquie","Hydraulique",2,542
+2019,"Slovaquie","Hydraulique",2,544
+2020,"Slovaquie","Hydraulique",2,546
+2021,"Slovaquie","Hydraulique",,
+2022,"Slovaquie","Hydraulique",,
+2023,"Slovaquie","Hydraulique",,
+2024,"Slovaquie","Hydraulique",,
+2016,"Slovaquie","Fioul",0,257
+2017,"Slovaquie","Fioul",0,257
+2018,"Slovaquie","Fioul",0,257
+2019,"Slovaquie","Fioul",0,257
+2020,"Slovaquie","Fioul",0,259
+2021,"Slovaquie","Fioul",,
+2022,"Slovaquie","Fioul",,
+2023,"Slovaquie","Fioul",,
+2024,"Slovaquie","Fioul",,
+2016,"Slovaquie","Gaz",1,106
+2017,"Slovaquie","Gaz",1,111
+2018,"Slovaquie","Gaz",1,153
+2019,"Slovaquie","Gaz",1,152
+2020,"Slovaquie","Gaz",1,183
+2021,"Slovaquie","Gaz",,
+2022,"Slovaquie","Gaz",,
+2023,"Slovaquie","Gaz",,
+2024,"Slovaquie","Gaz",,
+2016,"Slovaquie","Charbon",0,554
+2017,"Slovaquie","Charbon",0,566
+2018,"Slovaquie","Charbon",0,541
+2019,"Slovaquie","Charbon",0,309
+2020,"Slovaquie","Charbon",0,277
+2021,"Slovaquie","Charbon",,
+2022,"Slovaquie","Charbon",,
+2023,"Slovaquie","Charbon",,
+2024,"Slovaquie","Charbon",,
+2016,"Slovaquie","Nucléaire",1,94
+2017,"Slovaquie","Nucléaire",1,94
+2018,"Slovaquie","Nucléaire",1,94
+2019,"Slovaquie","Nucléaire",1,94
+2020,"Slovaquie","Nucléaire",2,3
+2021,"Slovaquie","Nucléaire",,
+2022,"Slovaquie","Nucléaire",,
+2023,"Slovaquie","Nucléaire",,
+2024,"Slovaquie","Nucléaire",,
+2016,"Slovaquie","Toutes les filières",7,721
+2017,"Slovaquie","Toutes les filières",7,728
+2018,"Slovaquie","Toutes les filières",7,715
+2019,"Slovaquie","Toutes les filières",7,716
+2020,"Slovaquie","Toutes les filières",7,779
+2021,"Slovaquie","Toutes les filières",,
+2022,"Slovaquie","Toutes les filières",,
+2023,"Slovaquie","Toutes les filières",,
+2024,"Slovaquie","Toutes les filières",,
